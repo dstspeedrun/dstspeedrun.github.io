@@ -1,0 +1,55 @@
+name: Python Build and Commit
+
+on:
+  push:
+    branches:
+      - main  # Trigger on push events to the main branch
+  schedule:
+    - cron: '0 0 * * *'  # Run every day at midnight UTC
+
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12'  # specify the Python version you need
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run make.sh script
+      run: |
+        cd data
+        chmod +x make.sh
+        ./make.sh
+    
+    - name: Add and commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/ingredients.json data/primitives.json
+        git commit -m "Updated data"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Run clean.sh script
+      run: |
+        cd data
+        chmod +x clean.sh
+        ./clean.sh
