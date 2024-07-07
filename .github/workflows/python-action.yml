@@ -40,16 +40,10 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/ingredients.json data/primitives.json
+        git add data/ingredients.json data/primitives.json data/craftables.json
         git commit -m "Updated data"
     
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Run clean.sh script
-      run: |
-        cd data
-        chmod +x clean.sh
-        ./clean.sh

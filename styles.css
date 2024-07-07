@@ -5,11 +5,24 @@ body {
     background-color: #121212;
     color: #ffffff;
     padding: auto;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
 }
 
 .search-container {
     position: relative;
     margin-bottom: 20px;
+}
+
+#search {
+    width: 450px;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid rgb(48, 48, 48);
+    /* z-index: 1000; */
 }
 
 #search-input {
@@ -18,13 +31,13 @@ body {
     box-sizing: border-box;
     display: inline-block;
     justify-content: center;
-    margin-bottom: 5px;
+    /* margin-bottom: 5px; */
     background-color: #1e1e1e;
     border: 1px solid #333;
     color: #fff;
 }
 
-#clear-search-btn, #new-panel-btn, #panel-name-input {
+#new-panel-btn, #panel-name-input {
     display: inline-block;
     cursor: pointer;
     background-color: #333;
@@ -32,10 +45,6 @@ body {
     border: none;
     padding: 10px;
     margin: 5px;
-}
-
-#clear-search-btn:hover, #new-panel-btn:hover {
-    background-color: #444;
 }
 
 #dropdown {
@@ -87,6 +96,10 @@ body {
     padding: 10px;
 }
 
+.up, .down {
+    height: 100%;
+}
+
 .add-multiple:hover {
     background-color: #444;
 }
@@ -129,20 +142,27 @@ body {
     background-color: #444;
 }
 
-.panel-content {
+.panel-content, .dropdown-content {
     display: flex;
     flex-wrap: wrap;
     margin-top: 10px;
 }
 
-.todo-item {
+.dropdown-content:not(:empty) {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    border-bottom: 1px solid #333;
+}
+
+.todo-item, .item{
     display: flex;
     align-items: center;
     margin-right: 10px;
     margin-bottom: 10px;
 }
 
-.todo-item img {
+.todo-item > img, .item > img {
     width: 50px;
     height: 50px;
     margin-right: 5px;
@@ -154,11 +174,16 @@ body {
 
 /* Responsive Styles */
 @media (max-width: 600px) {
+
+    #search {
+        width: 80%;
+    }
+
     #search-input {
         width: 100%; /* Adjust width to accommodate clear button */
     }
 
-    #clear-search-btn, #new-panel-btn, #panel-name-input {
+    #new-panel-btn, #panel-name-input {
         width: 100%;
         margin: 5px 0;
     }
