@@ -19,8 +19,15 @@ for item in craftables:
             if new_title == 'The End is Nigh':
                 item['title'] = 'The End is Nigh!'
     elif item['title'] == 'Bernie':
-        # Update title for item with title "Bernie"
         item['title'] = 'Bernie (item)'
+    elif item['title'] in ['Hammer', "Relic"]:
+        item['url'] = item['url'] + '/DST'
+    elif item['title'] == 'Pillar Scaffold':
+        item['title'] = "Reinforced Pillar"
+    elif item['title'] in ['Round Wooden Table', 'Square Wooden Table']:
+        item['title'] = "Square/Round Wooden Table"
+    elif item['title'] == 'Wooden Stool':
+        item['title'] = "Wooden Chair"
 
     # Append the updated or unchanged item to the list
     updated_craftables.append(item)
@@ -29,4 +36,4 @@ for item in craftables:
 with open('craftables.json', 'w') as f:
     json.dump(updated_craftables, f, indent=4)
 
-print("Updated titles in craftables.json where title was 'Books', 'Bernie' and 'The End is Nigh'")
+print("Updated titles/links in craftables.json")
