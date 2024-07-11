@@ -3,10 +3,9 @@ name: Python Build and Commit
 on:
   push:
     branches:
-      - main  # Trigger on push events to the main branch
+      - main 
   schedule:
-    - cron: '0 0 * * *'  # Run every day at midnight UTC
-
+    - cron: '0 0 * * 4'
 
 permissions:
   contents: write
@@ -23,7 +22,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12'  # specify the Python version you need
+        python-version: '3.12'
     
     - name: Install dependencies
       run: |
@@ -40,7 +39,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/ingredients.json data/primitives.json data/craftables.json
+        git add .
         git commit -m "Updated data"
     
     - name: Push changes
