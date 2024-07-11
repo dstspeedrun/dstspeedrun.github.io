@@ -74,6 +74,15 @@ def fetch_item_data(item, session, progress_bar):
         if crafting_data:
             item['crafting'] = crafting_data
 
+            hammerable = soup.find('div', {'data-source': 'tool'})
+            if hammerable and 'Hammer' in str(hammerable):
+                item['hammerable'] = True
+            else:
+                item['hammerable'] = False
+
+            progress_bar.update(1)
+            return
+        item['hammerable'] = False
     # Update progress bar after task completion
     progress_bar.update(1)
 
