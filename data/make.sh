@@ -7,4 +7,5 @@ python ./patch_3_craftables.py
 python ./patch_4_craftables.py
 python ./patch_5_craftables.py
 python ./fetch_crafting_ingredients.py
-python ./resolve_ingredients.py
+python ./create_ingredients.py
+python ./create_hammerables.py
