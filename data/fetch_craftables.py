@@ -17,8 +17,19 @@ try:
 
     # Deleting all td tags with class "navbox-group"
     if table:
+        table.find('a', {'title':"Special Event Filter"}, string='Special Event').parent.parent.parent.decompose()
+        table.find('a', {'title':"Critters Filter"}, string='Critters').parent.parent.parent.decompose()
+        table.find('a', {'title':"Bottle Exchange Filter"}, string='Bottle Exchange').parent.parent.parent.decompose()
+        table.find('a', {'title':"Sculptures Filter"}, string='Sculptures').parent.parent.parent.decompose()
+        table.find('a', {'title':"Offerings Filter"}, string='Offerings').parent.parent.parent.decompose()
+        table.find('a', {'title':"Cawnival Creation Filter"}, string='Cawnival Creation').parent.parent.parent.decompose()
+        table.find('a', {'title':"Mad Science Filter"}, string='Mad Science').parent.parent.parent.decompose()
+        table.find('a', {'title':"Trinket Trove Filter"}, string='Trinket Trove').parent.parent.parent.decompose()
+        table.find('a', {'title':"Winter's Feast Cooking Filter"}, string="Winter's Feast Cooking").parent.parent.parent.decompose()
         for td in table.find_all('td', class_='navbox-group'):
             td.decompose()
+        table.find('article', {'data-mw-tabber-title': 'Wilson'}, class_='tabber__panel').decompose()
+
 
     # Extracting information from <a> tags
     items = []
