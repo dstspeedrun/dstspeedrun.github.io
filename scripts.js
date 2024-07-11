@@ -1,16 +1,22 @@
 document.addEventListener('DOMContentLoaded', () => {
     const primitivesUrl = 'data/primitives.json';
-    const craftablesUrl = 'data/ingredients.json';
+    const ingredientsUrl = 'data/ingredients.json';
+    const hammerablesUrl = 'data/hammerables.json';
     let primitives = [];
-    let craftables = [];
+    let ingredients = [];
+    let hammerables = []
     
     fetch(primitivesUrl)
         .then(response => response.json())
         .then(data => primitives = data);
 
-    fetch(craftablesUrl)
+    fetch(ingredientsUrl)
         .then(response => response.json())
-        .then(data => craftables = data);
+        .then(data => ingredients = data);
+
+        fetch(hammerablesUrl)
+        .then(response => response.json())
+        .then(data => hammerables = data);
 
     const searchInput = document.getElementById('search-input');
     const dropdown = document.getElementById('dropdown');
@@ -39,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
         dropdown.innerHTML = '';
 
         if (query) {
-            const matches = [...primitives, ...craftables].filter(item => item.title.toLowerCase().includes(query));
+            const matches = [...primitives, ...ingredients].filter(item => item.title.toLowerCase().includes(query));
             matches.forEach(item => {
                 const div = document.createElement('div');
                 div.className = 'dropdown-item';
@@ -48,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <img src="${item.image_url}" alt="${item.title}">${item.title}
                     </div>
                     <div>
-                    ${item.crafting ? '<button class="add-multiple" data-count="0.5">x0.5</button>' : ''}
+                    ${item.hammerable ? '<button class="hammerable" data-count="1"><img src="https://dontstarve.wiki.gg/images/thumb/8/81/Hammer.png/40px-Hammer.png" alt="Hammerable"></button>' : ''}
                     <button class="add-multiple" data-count="2">x2</button>
                     <button class="add-multiple" data-count="3">x3</button>
                     <button class="add-multiple" data-count="4">x4</button>
@@ -59,7 +65,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 div.querySelectorAll('.add-multiple').forEach(button => {
                     button.addEventListener('click', (e) => {
                         e.stopPropagation();
-                        addItem(item, parseFloat(button.dataset.count));
+                        addItem(item, parseInt(button.dataset.count));
+                    });
+                });
+                div.querySelectorAll('.hammerable').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        hammerable_item = hammerables.find(obj => obj.title === item.title)
+                        item_copy = structuredClone(hammerable_item)
+                        item_copy.title = item_copy.title + '*'
+                        addItem(item_copy, parseInt(button.dataset.count));
                     });
                 });
                 div.addEventListener('click', () => addItem(item));
@@ -75,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
             Object.keys(item.crafting).forEach(key => {
                 const primitive = primitives.find(p => p.title === key);
                 if (primitive) {
-                    addTodoItem(primitive, Math.ceil(item.crafting[key] * count));
+                    addTodoItem(primitive, item.crafting[key] * count);
                 }
             });
         } else {
@@ -95,11 +110,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (existingItem) {
             const itemCount = existingItem.querySelector('.item-count');
-            itemCount.textContent = parseFloat(itemCount.textContent) + count;
+            itemCount.textContent = parseInt(itemCount.textContent) + count;
         } else {
             const div = document.createElement('div');
             div.className = 'item';
-            div.innerHTML = `<img src="${item.image_url}" alt="${item.title}"><span class="item-count">${count}</span>`;
+            div.innerHTML = `<img src="${item.image_url}" alt="${item.title}"> ${item.title.endsWith('*') ? "<img src='https://dontstarve.wiki.gg/images/thumb/8/81/Hammer.png/40px-Hammer.png' alt='Hammerable'>" : ''}<span class="item-count">${count}</span>`;
             panelContent.appendChild(div);
         }
     }
@@ -206,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 panelData.dropdownItems.push({
                     title: img.alt,
                     image_url: img.src,
-                    count: parseFloat(count)
+                    count: parseInt(count)
                 });
             });
             panel.querySelectorAll('.panel-content .todo-item').forEach(item => {
@@ -215,7 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 panelData.items.push({
                     title: img.alt,
                     image_url: img.src,
-                    count: parseFloat(count)
+                    count: parseInt(count)
                 });
             });
             panels.push(panelData);
@@ -241,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const panelContent = panel.querySelector('.dropdown-content');
         const div = document.createElement('div');
         div.className = 'item';
-        div.innerHTML = `<img src="${item.image_url}" alt="${item.title}"><span class="item-count">${item.count}</span>`;
+        div.innerHTML = `<img src="${item.image_url}" alt="${item.title}">${item.title.endsWith('*') ? "<img src='https://dontstarve.wiki.gg/images/thumb/8/81/Hammer.png/40px-Hammer.png' alt='Hammerable'>" : ''}<span class="item-count">${item.count}</span>`;
         panelContent.appendChild(div);
     }
 

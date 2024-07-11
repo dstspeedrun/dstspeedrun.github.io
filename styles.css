@@ -22,7 +22,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     border: 1px solid rgb(48, 48, 48);
-    /* z-index: 1000; */
+    z-index: 1000;
 }
 
 #search-input {
@@ -53,7 +53,7 @@ body {
     /* border: 1px solid #333; */
     display: flex;
     flex-direction: column;
-    max-height: 200px;
+    max-height: 500px;
     max-width: 500px;
     overflow-y: auto;
     background-color: #1e1e1e;
@@ -88,7 +88,8 @@ body {
 }
 
 .add-multiple {
-    /* margin-left: 5px; */
+    height: 40px;
+    width: 40px;
     cursor: pointer;
     background-color: #333;
     color: #fff;
@@ -96,11 +97,27 @@ body {
     padding: 10px;
 }
 
+.hammerable {
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    vertical-align: middle
+}
+
+.hammerable > img {
+    height: 20px;
+    width: 20px;
+}
+
 .up, .down {
     height: 100%;
 }
 
-.add-multiple:hover {
+.add-multiple:hover, .hammerable:hover {
     background-color: #444;
 }
 
@@ -160,12 +177,24 @@ body {
     align-items: center;
     margin-right: 10px;
     margin-bottom: 10px;
+    position: relative; /* Ensure the container is the reference for positioning */
+    display: inline-block;
 }
 
 .todo-item > img, .item > img {
     width: 50px;
     height: 50px;
     margin-right: 5px;
+}
+
+.item > img:nth-child(2) {
+    background-color: antiquewhite;
+    position: absolute;
+    top: 40px; /* Adjust as needed to control vertical positioning from top */
+    left: 30px; /* Adjust as needed to control horizontal positioning from left */
+    max-width: 30%; /* Adjust size of label image as needed */
+    max-height: 30%; /* Maintain aspect ratio */
+    z-index: 1; /* Ensure label image appears above main image */
 }
 
 .todo-item .item-count {
