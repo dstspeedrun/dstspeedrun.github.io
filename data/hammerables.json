@@ -1,0 +1,5396 @@
+[
+    {
+        "title": "Willow's Lighter",
+        "url": "https://dontstarve.wiki.gg/wiki/Willow%27s_Lighter/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4a/Willow%27s_Lighter.png/40px-Willow%27s_Lighter.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Gold Nugget": 1,
+            "Petals": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bernie (item)",
+        "url": "https://dontstarve.wiki.gg/wiki/Bernie",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a5/Bernie.png/40px-Bernie.png",
+        "crafting": {
+            "Beard Hair": 2,
+            "Beefalo Wool": 2,
+            "Silk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Mighty Gym",
+        "url": "https://dontstarve.wiki.gg/wiki/Mighty_Gym",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d5/Mighty_Gym.png/40px-Mighty_Gym.png",
+        "crafting": {
+            "Log": 8,
+            "Rocks": 3,
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Dumbbell",
+        "url": "https://dontstarve.wiki.gg/wiki/Dumbbell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4f/Dumbbell.png/40px-Dumbbell.png",
+        "crafting": {
+            "Rocks": 4,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Golden Dumbbell",
+        "url": "https://dontstarve.wiki.gg/wiki/Golden_Dumbbell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e7/Golden_Dumbbell.png/40px-Golden_Dumbbell.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Marbell",
+        "url": "https://dontstarve.wiki.gg/wiki/Marbell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/00/Marbell.png/40px-Marbell.png",
+        "crafting": {
+            "Marble": 4,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Gembell",
+        "url": "https://dontstarve.wiki.gg/wiki/Gembell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/07/Gembell.png/40px-Gembell.png",
+        "crafting": {
+            "Purple Gem": 1,
+            "Thulecite Fragments": 12,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thermbell",
+        "url": "https://dontstarve.wiki.gg/wiki/Thermbell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/93/Thermbell.png/40px-Thermbell.png",
+        "crafting": {
+            "Rocks": 12,
+            "Twigs": 2,
+            "Flint": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Firebell",
+        "url": "https://dontstarve.wiki.gg/wiki/Firebell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/76/Firebell.png/40px-Firebell.png",
+        "crafting": {
+            "Thulecite Fragments": 12,
+            "Red Gem": 1,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Icebell",
+        "url": "https://dontstarve.wiki.gg/wiki/Icebell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/22/Icebell.png/40px-Icebell.png",
+        "crafting": {
+            "Thulecite Fragments": 12,
+            "Blue Gem": 1,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Coaching Whistle",
+        "url": "https://dontstarve.wiki.gg/wiki/Coaching_Whistle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ec/Coaching_Whistle.png/40px-Coaching_Whistle.png",
+        "crafting": {
+            "Flint": 1,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Abigail's Flower",
+        "url": "https://dontstarve.wiki.gg/wiki/Abigail%27s_Flower/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4e/Abigail%27s_Flower.png/40px-Abigail%27s_Flower.png",
+        "crafting": {
+            "Mourning Glory": 1,
+            "Nightmare Fuel": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sisturn",
+        "url": "https://dontstarve.wiki.gg/wiki/Sisturn",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/81/Sisturn.png/40px-Sisturn.png",
+        "crafting": {
+            "Rocks": 3,
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Revenant Restorative",
+        "url": "https://dontstarve.wiki.gg/wiki/Revenant_Restorative",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ef/Revenant_Restorative.png/40px-Revenant_Restorative.png",
+        "crafting": {
+            "Spider Gland": 1,
+            "Mourning Glory": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Spectral Cure-All",
+        "url": "https://dontstarve.wiki.gg/wiki/Spectral_Cure-All",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f1/Spectral_Cure-All.png/40px-Spectral_Cure-All.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Spider Gland": 1,
+            "Health Decrease": 40,
+            "Mourning Glory": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Unyielding Draught",
+        "url": "https://dontstarve.wiki.gg/wiki/Unyielding_Draught",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/19/Unyielding_Draught.png/40px-Unyielding_Draught.png",
+        "crafting": {
+            "Log": 1,
+            "Mourning Glory": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Distilled Vengeance",
+        "url": "https://dontstarve.wiki.gg/wiki/Distilled_Vengeance",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ad/Distilled_Vengeance.png/40px-Distilled_Vengeance.png",
+        "crafting": {
+            "Living Log": 1,
+            "Mourning Glory": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nightshade Nostrum",
+        "url": "https://dontstarve.wiki.gg/wiki/Nightshade_Nostrum",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9e/Nightshade_Nostrum.png/40px-Nightshade_Nostrum.png",
+        "crafting": {
+            "Stinger": 1,
+            "Mourning Glory": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Vigor Mortis",
+        "url": "https://dontstarve.wiki.gg/wiki/Vigor_Mortis",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/97/Vigor_Mortis.png/40px-Vigor_Mortis.png",
+        "crafting": {
+            "Honey": 1,
+            "Mourning Glory": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Hardy Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Hardy_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/Hardy_Circuit.png/40px-Hardy_Circuit.png",
+        "crafting": {
+            "Bio Data": 2,
+            "Spider Gland": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Super-Hardy Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Super-Hardy_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8c/Super-Hardy_Circuit.png/40px-Super-Hardy_Circuit.png",
+        "crafting": {
+            "Bio Data": 6,
+            "Spider Gland": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Processing Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Processing_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7d/Processing_Circuit.png/40px-Processing_Circuit.png",
+        "crafting": {
+            "Bio Data": 1,
+            "Petals": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Super-Processing Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Super-Processing_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/69/Super-Processing_Circuit.png/40px-Super-Processing_Circuit.png",
+        "crafting": {
+            "Bio Data": 4,
+            "Nightmare Fuel": 1,
+            "Petals": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beanbooster Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Beanbooster_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/99/Beanbooster_Circuit.png/40px-Beanbooster_Circuit.png",
+        "crafting": {
+            "Bio Data": 12,
+            "Royal Jelly": 1,
+            "Nightmare Fuel": 1,
+            "Petals": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Chorusbox Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Chorusbox_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6f/Chorusbox_Circuit.png/40px-Chorusbox_Circuit.png",
+        "crafting": {
+            "Bio Data": 4,
+            "Baritone Shell Bell": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Gastrogain Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Gastrogain_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a3/Gastrogain_Circuit.png/40px-Gastrogain_Circuit.png",
+        "crafting": {
+            "Bio Data": 2,
+            "Hound's Tooth": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Super-Gastrogain Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Super-Gastrogain_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/68/Super-Gastrogain_Circuit.png/40px-Super-Gastrogain_Circuit.png",
+        "crafting": {
+            "Bio Data": 5,
+            "Slurper Pelt": 1,
+            "Hound's Tooth": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Acceleration Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Acceleration_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bf/Acceleration_Circuit.png/40px-Acceleration_Circuit.png",
+        "crafting": {
+            "Bio Data": 2,
+            "Rabbit": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Super-Acceleration Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Super-Acceleration_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/34/Super-Acceleration_Circuit.png/40px-Super-Acceleration_Circuit.png",
+        "crafting": {
+            "Bio Data": 8,
+            "Gears": 1,
+            "Rabbit": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thermal Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Thermal_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b3/Thermal_Circuit.png/40px-Thermal_Circuit.png",
+        "crafting": {
+            "Bio Data": 4,
+            "Red Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Refrigerant Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Refrigerant_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/59/Refrigerant_Circuit.png/40px-Refrigerant_Circuit.png",
+        "crafting": {
+            "Bio Data": 4,
+            "Blue Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Electrification Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Electrification_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0d/Electrification_Circuit.png/40px-Electrification_Circuit.png",
+        "crafting": {
+            "Bio Data": 5,
+            "Electric Milk": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Optoelectronic Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Optoelectronic_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0c/Optoelectronic_Circuit.png/40px-Optoelectronic_Circuit.png",
+        "crafting": {
+            "Bio Data": 4,
+            "Moleworm": 1,
+            "Fireflies": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Illumination Circuit",
+        "url": "https://dontstarve.wiki.gg/wiki/Illumination_Circuit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/49/Illumination_Circuit.png/40px-Illumination_Circuit.png",
+        "crafting": {
+            "Bio Data": 6,
+            "Light Bulb": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Circuit Extractor",
+        "url": "https://dontstarve.wiki.gg/wiki/Circuit_Extractor",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Circuit_Extractor.png/40px-Circuit_Extractor.png",
+        "crafting": {
+            "Twigs": 2,
+            "Rocks": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bio Scanalyzer",
+        "url": "https://dontstarve.wiki.gg/wiki/Bio_Scanalyzer",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/55/Bio_Scanalyzer.png/40px-Bio_Scanalyzer.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Rocks": 3,
+            "Silk": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bookcase",
+        "url": "https://dontstarve.wiki.gg/wiki/Bookcase",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/52/Bookcase.png/40px-Bookcase.png",
+        "crafting": {
+            "Living Log": 1,
+            "Cut Reeds": 8
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Birds of the World",
+        "url": "https://dontstarve.wiki.gg/wiki/Books/DST#Birds_of_the_World",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f8/Birds_of_the_World.png/40px-Birds_of_the_World.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Egg": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Horticulture, Abridged",
+        "url": "https://dontstarve.wiki.gg/wiki/Horticulture,_Abridged",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/02/Horticulture%2C_Abridged.png/40px-Horticulture%2C_Abridged.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Seeds": 5,
+            "Manure": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Applied Silviculture",
+        "url": "https://dontstarve.wiki.gg/wiki/Applied_Silviculture",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6c/Applied_Silviculture.png/40px-Applied_Silviculture.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Living Log": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sleepytime Stories",
+        "url": "https://dontstarve.wiki.gg/wiki/Books/DST#Sleepytime_Stories",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3f/Sleepytime_Stories.png/40px-Sleepytime_Stories.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "The End is Nigh!",
+        "url": "https://dontstarve.wiki.gg/wiki/Books/DST#The_End_is_Nigh",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/02/The_End_is_Nigh.png/40px-The_End_is_Nigh.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Red Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "On Tentacles",
+        "url": "https://dontstarve.wiki.gg/wiki/Books/DST#On_Tentacles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/On_Tentacles.png/40px-On_Tentacles.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Tentacle Spots": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "The Angler's Survival Guide",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Angler%27s_Survival_Guide",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/de/The_Angler%27s_Survival_Guide.png/40px-The_Angler%27s_Survival_Guide.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Log": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pyrokinetics Explained",
+        "url": "https://dontstarve.wiki.gg/wiki/Pyrokinetics_Explained",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/10/Pyrokinetics_Explained.png/40px-Pyrokinetics_Explained.png",
+        "crafting": {
+            "The End is Nigh": 1,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Cut Reeds": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Overcoming Arachnophobia",
+        "url": "https://dontstarve.wiki.gg/wiki/Overcoming_Arachnophobia",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f2/Overcoming_Arachnophobia.png/40px-Overcoming_Arachnophobia.png",
+        "crafting": {
+            "Silk": 8,
+            "Cut Reeds": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tempering Temperatures",
+        "url": "https://dontstarve.wiki.gg/wiki/Tempering_Temperatures",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/60/Tempering_Temperatures.png/40px-Tempering_Temperatures.png",
+        "crafting": {
+            "Rocks": 10,
+            "Twigs": 2,
+            "Flint": 3,
+            "Cut Reeds": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lux Aeterna",
+        "url": "https://dontstarve.wiki.gg/wiki/Lux_Aeterna",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4c/Lux_Aeterna.png/40px-Lux_Aeterna.png",
+        "crafting": {
+            "Light Bulb": 2,
+            "Cut Reeds": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lux Aeterna Redux",
+        "url": "https://dontstarve.wiki.gg/wiki/Lux_Aeterna_Redux",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4c/Lux_Aeterna_Redux.png/40px-Lux_Aeterna_Redux.png",
+        "crafting": {
+            "Light Bulb": 2,
+            "Cut Reeds": 16,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Practical Rain Rituals",
+        "url": "https://dontstarve.wiki.gg/wiki/Practical_Rain_Rituals",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dc/Practical_Rain_Rituals.png/40px-Practical_Rain_Rituals.png",
+        "crafting": {
+            "Down Feather": 2,
+            "Cut Reeds": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lunar Grimoire",
+        "url": "https://dontstarve.wiki.gg/wiki/Lunar_Grimoire",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/eb/Lunar_Grimoire.png/40px-Lunar_Grimoire.png",
+        "crafting": {
+            "Moon Moth Wings": 2,
+            "Cut Reeds": 8,
+            "Iridescent Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Apicultural Notes",
+        "url": "https://dontstarve.wiki.gg/wiki/Apicultural_Notes",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1e/Apicultural_Notes.png/40px-Apicultural_Notes.png",
+        "crafting": {
+            "Stinger": 8,
+            "Cut Reeds": 8,
+            "Honey": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "The Everything Encyclopedia",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Everything_Encyclopedia",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c2/The_Everything_Encyclopedia.png/40px-The_Everything_Encyclopedia.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Rocks": 3,
+            "Cut Reeds": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Kitschy Goose Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Kitschy_Goose_Idol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/93/Kitschy_Goose_Idol.png/40px-Kitschy_Goose_Idol.png",
+        "crafting": {
+            "Monster Meat": 3,
+            "Seeds": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Kitschy Beaver Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Kitschy_Beaver_Idol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/60/Kitschy_Beaver_Idol.png/40px-Kitschy_Beaver_Idol.png",
+        "crafting": {
+            "Monster Meat": 3,
+            "Log": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Kitschy Moose Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Kitschy_Moose_Idol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/17/Kitschy_Moose_Idol.png/40px-Kitschy_Moose_Idol.png",
+        "crafting": {
+            "Monster Meat": 3,
+            "Cut Grass": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Treeguard Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Treeguard_Idol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/96/Treeguard_Idol.png/40px-Treeguard_Idol.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Living Log": 2,
+            "Nightmare Fuel": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Boards",
+        "url": "https://dontstarve.wiki.gg/wiki/Boards/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5c/Boards.png/40px-Boards.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Hardwood Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Hardwood_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c5/Hardwood_Hat.png/40px-Hardwood_Hat.png",
+        "crafting": {
+            "Lucy the Axe": 1,
+            "Log": 6,
+            "Pine Cone": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Wooden Walking Stick",
+        "url": "https://dontstarve.wiki.gg/wiki/Wooden_Walking_Stick",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d6/Wooden_Walking_Stick.png/40px-Wooden_Walking_Stick.png",
+        "crafting": {
+            "Lucy the Axe": 1,
+            "Log": 3,
+            "Charcoal": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pile o' Balloons",
+        "url": "https://dontstarve.wiki.gg/wiki/Pile_o%27_Balloons/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/Pile_o%27_Balloons.png/40px-Pile_o%27_Balloons.png",
+        "crafting": {
+            "Mosquito Sack": 8,
+            "Ice": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pile o' Balloons",
+        "url": "https://dontstarve.wiki.gg/wiki/Pile_o%27_Balloons/DST#Balloon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bf/Balloon_Icon.png/40px-Balloon_Icon.png",
+        "crafting": {
+            "Mosquito Sack": 8,
+            "Ice": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Speedy Balloon",
+        "url": "https://dontstarve.wiki.gg/wiki/Speedy_Balloon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/46/Speedy_Balloon.png/40px-Speedy_Balloon.png",
+        "crafting": {
+            "Mosquito Sack": 8,
+            "Ice": 4,
+            "Sanity Meter": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Party Balloon",
+        "url": "https://dontstarve.wiki.gg/wiki/Party_Balloon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b5/Party_Balloon.png/40px-Party_Balloon.png",
+        "crafting": {
+            "Mosquito Sack": 8,
+            "Ice": 4,
+            "Sanity Meter": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Inflatable Vest",
+        "url": "https://dontstarve.wiki.gg/wiki/Inflatable_Vest",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d5/Inflatable_Vest.png/40px-Inflatable_Vest.png",
+        "crafting": {
+            "Mosquito Sack": 8,
+            "Ice": 4,
+            "Sanity Meter": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Balloon Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Balloon_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8e/Balloon_Hat.png/40px-Balloon_Hat.png",
+        "crafting": {
+            "Mosquito Sack": 8,
+            "Ice": 4,
+            "Sanity Meter": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Codex Umbra",
+        "url": "https://dontstarve.wiki.gg/wiki/Codex_Umbra/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b8/Codex_Umbra.png/40px-Codex_Umbra.png",
+        "crafting": {
+            "Cut Reeds": 8,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Magician's Chest",
+        "url": "https://dontstarve.wiki.gg/wiki/Magician%27s_Chest",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/17/Magician%27s_Chest.png/40px-Magician%27s_Chest.png",
+        "crafting": {
+            "Log": 8,
+            "Nightmare Fuel": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Magician's Top Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Magician%27s_Top_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8d/Top_Hat.png/40px-Top_Hat.png",
+        "crafting": {
+            "Silk": 6,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Battle Spear",
+        "url": "https://dontstarve.wiki.gg/wiki/Battle_Spear/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/26/Battle_Spear.png/40px-Battle_Spear.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Elding Spear",
+        "url": "https://dontstarve.wiki.gg/wiki/Elding_Spear",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d0/Elding_Spear.png/40px-Elding_Spear.png",
+        "crafting": {
+            "Twigs": 2,
+            "Volt Goat Horn": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Battle Helm",
+        "url": "https://dontstarve.wiki.gg/wiki/Battle_Helm/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Battle_Helm.png/40px-Battle_Helm.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Rocks": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Commander's Helm",
+        "url": "https://dontstarve.wiki.gg/wiki/Commander%27s_Helm",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Commander%27s_Helm.png/40px-Commander%27s_Helm.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Beefalo Wool": 2,
+            "Marble": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Weaponized Warble",
+        "url": "https://dontstarve.wiki.gg/wiki/Weaponized_Warble",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c0/Weaponized_Warble.png/40px-Weaponized_Warble.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Log": 1,
+            "Silk": 8,
+            "Hound's Tooth": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Heartrending Ballad",
+        "url": "https://dontstarve.wiki.gg/wiki/Heartrending_Ballad",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ac/Heartrending_Ballad.png/40px-Heartrending_Ballad.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Gold Nugget": 3,
+            "Nightmare Fuel": 2,
+            "Red Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Clear Minded Cadenza",
+        "url": "https://dontstarve.wiki.gg/wiki/Clear_Minded_Cadenza",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/90/Clear_Minded_Cadenza.png/40px-Clear_Minded_Cadenza.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Moon Moth Wings": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bel Canto of Courage",
+        "url": "https://dontstarve.wiki.gg/wiki/Bel_Canto_of_Courage",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d2/Bel_Canto_of_Courage.png/40px-Bel_Canto_of_Courage.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Thulecite Fragments": 12,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fireproof Falsetto",
+        "url": "https://dontstarve.wiki.gg/wiki/Fireproof_Falsetto",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cf/Fireproof_Falsetto.png/40px-Fireproof_Falsetto.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Spittlefish": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rude Interlude",
+        "url": "https://dontstarve.wiki.gg/wiki/Rude_Interlude",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4a/Rude_Interlude.png/40px-Rude_Interlude.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Toma Root": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Startling Soliloquy",
+        "url": "https://dontstarve.wiki.gg/wiki/Startling_Soliloquy",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/91/Startling_Soliloquy.png/40px-Startling_Soliloquy.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Purple Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Warrior's Reprise",
+        "url": "https://dontstarve.wiki.gg/wiki/Warrior%27s_Reprise",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7b/Warrior%27s_Reprise.png/40px-Warrior%27s_Reprise.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Down Feather": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Enlightened Lullaby",
+        "url": "https://dontstarve.wiki.gg/wiki/Enlightened_Lullaby",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2f/Enlightened_Lullaby.png/40px-Enlightened_Lullaby.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Pure Brilliance": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dark Lament",
+        "url": "https://dontstarve.wiki.gg/wiki/Dark_Lament",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/07/Dark_Lament.png/40px-Dark_Lament.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Pure Horror": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Battle Call Canister",
+        "url": "https://dontstarve.wiki.gg/wiki/Battle_Call_Canister",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/32/Battle_Call_Canister.png/40px-Battle_Call_Canister.png",
+        "crafting": {
+            "Log": 8,
+            "Gold Nugget": 3,
+            "Azure Feather": 2,
+            "Honeycomb": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Battle Saddle",
+        "url": "https://dontstarve.wiki.gg/wiki/Battle_Saddle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fe/Battle_Saddle.png/40px-Battle_Saddle.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Marble": 3,
+            "Azure Feather": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Battle R\u00f6nd",
+        "url": "https://dontstarve.wiki.gg/wiki/Battle_R%C3%B6nd",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/31/Battle_R%C3%B6nd.png/40px-Battle_R%C3%B6nd.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Beefalo Wool": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Den Decorating Set",
+        "url": "https://dontstarve.wiki.gg/wiki/Den_Decorating_Set",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/36/Den_Decorating_Set.png/40px-Den_Decorating_Set.png",
+        "crafting": {
+            "Silk": 1,
+            "Cut Reeds": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Webby Whistle",
+        "url": "https://dontstarve.wiki.gg/wiki/Webby_Whistle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/52/Webby_Whistle.png/40px-Webby_Whistle.png",
+        "crafting": {
+            "Silk": 3,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shoo Box",
+        "url": "https://dontstarve.wiki.gg/wiki/Shoo_Box",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9c/Shoo_Box.png/40px-Shoo_Box.png",
+        "crafting": {
+            "Log": 8,
+            "Gold Nugget": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Healing Glop",
+        "url": "https://dontstarve.wiki.gg/wiki/Healing_Glop",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/15/Healing_Glop.png/40px-Healing_Glop.png",
+        "crafting": {
+            "Honey": 2,
+            "Ash": 2,
+            "Silk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Warrior Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Warrior_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/26/Warrior_Switcherdoodle.png/40px-Warrior_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 2,
+            "Silk": 1,
+            "Pig Skin": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dangler Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Dangler_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e4/Dangler_Switcherdoodle.png/40px-Dangler_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 1,
+            "Silk": 1,
+            "Bunny Puff": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cave Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Cave_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/83/Cave_Switcherdoodle.png/40px-Cave_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 1,
+            "Silk": 2,
+            "Rocks": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Spitter Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Spitter_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/52/Spitter_Switcherdoodle.png/40px-Spitter_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 1,
+            "Silk": 2,
+            "Nitre": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shatter Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Shatter_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bf/Shatter_Switcherdoodle.png/40px-Shatter_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 2,
+            "Silk": 3,
+            "Moon Shard": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nurse Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Nurse_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4b/Nurse_Switcherdoodle.png/40px-Nurse_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 2,
+            "Silk": 2,
+            "Honey": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Strider Switcherdoodle",
+        "url": "https://dontstarve.wiki.gg/wiki/Strider_Switcherdoodle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b1/Strider_Switcherdoodle.png/40px-Strider_Switcherdoodle.png",
+        "crafting": {
+            "Monster Meat": 2,
+            "Silk": 2,
+            "Fig": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Portable Crock Pot",
+        "url": "https://dontstarve.wiki.gg/wiki/Portable_Crock_Pot",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/83/Portable_Crock_Pot.png/40px-Portable_Crock_Pot.png",
+        "hammerable": false
+    },
+    {
+        "title": "Portable Seasoning Station",
+        "url": "https://dontstarve.wiki.gg/wiki/Portable_Seasoning_Station",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b8/Portable_Seasoning_Station.png/40px-Portable_Seasoning_Station.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Rocks": 9,
+            "Twigs": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Portable Grinding Mill",
+        "url": "https://dontstarve.wiki.gg/wiki/Portable_Grinding_Mill",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e7/Portable_Grinding_Mill.png/40px-Portable_Grinding_Mill.png",
+        "crafting": {
+            "Gold Nugget": 6,
+            "Rocks": 6,
+            "Twigs": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Chef Pouch",
+        "url": "https://dontstarve.wiki.gg/wiki/Chef_Pouch/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/12/Chef_Pouch.png/40px-Chef_Pouch.png",
+        "crafting": {
+            "Cut Grass": 4,
+            "Twigs": 4,
+            "Nitre": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Compost Wrap",
+        "url": "https://dontstarve.wiki.gg/wiki/Compost_Wrap/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f7/Compost_Wrap.png/40px-Compost_Wrap.png",
+        "crafting": {
+            "Manure": 5,
+            "Rot": 2,
+            "Nitre": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bramble Husk",
+        "url": "https://dontstarve.wiki.gg/wiki/Bramble_Husk/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ec/Bramble_Husk.png/40px-Bramble_Husk.png",
+        "crafting": {
+            "Living Log": 2,
+            "Stinger": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bramble Trap",
+        "url": "https://dontstarve.wiki.gg/wiki/Bramble_Trap/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/95/Bramble_Trap.png/40px-Bramble_Trap.png",
+        "crafting": {
+            "Living Log": 1,
+            "Stinger": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Syrup of Ipecaca",
+        "url": "https://dontstarve.wiki.gg/wiki/Syrup_of_Ipecaca",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/27/Syrup_of_Ipecaca.png/40px-Syrup_of_Ipecaca.png",
+        "crafting": {
+            "Red Cap": 1,
+            "Honey": 1,
+            "Rot": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Carrat",
+        "url": "https://dontstarve.wiki.gg/wiki/Carrat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f9/Carrat_Item.png/40px-Carrat_Item.png",
+        "hammerable": false
+    },
+    {
+        "title": "Bulbous Lightbug",
+        "url": "https://dontstarve.wiki.gg/wiki/Bulbous_Lightbug",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/Bulbous_Lightbug_Item.png/40px-Bulbous_Lightbug_Item.png",
+        "hammerable": false
+    },
+    {
+        "title": "Saladmander",
+        "url": "https://dontstarve.wiki.gg/wiki/Saladmander",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6e/Saladmander_Item.png/40px-Saladmander_Item.png",
+        "hammerable": false
+    },
+    {
+        "title": "Brambleshade Armor",
+        "url": "https://dontstarve.wiki.gg/wiki/Brambleshade_Armor",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/89/Brambleshade_Armor.png/40px-Brambleshade_Armor.png",
+        "crafting": {
+            "Pure Brilliance": 4,
+            "Brightshade Husk": 4,
+            "Living Log": 2,
+            "Stinger": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Trusty Tape",
+        "url": "https://dontstarve.wiki.gg/wiki/Trusty_Tape",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5c/Trusty_Tape.png/40px-Trusty_Tape.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Silk": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Handy Remote",
+        "url": "https://dontstarve.wiki.gg/wiki/Handy_Remote",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2a/Handy_Remote.png/40px-Handy_Remote.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Winona's Catapult",
+        "url": "https://dontstarve.wiki.gg/wiki/Winona%27s_Catapult",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/42/Winona%27s_Catapult.png/40px-Winona%27s_Catapult.png",
+        "crafting": {
+            "Twigs": 1,
+            "Rocks": 7
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Winona's Spotlight",
+        "url": "https://dontstarve.wiki.gg/wiki/Winona%27s_Spotlight",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/Winona%27s_Spotlight.png/40px-Winona%27s_Spotlight.png",
+        "crafting": {
+            "Gold Nugget": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Winona's Generator",
+        "url": "https://dontstarve.wiki.gg/wiki/Winona%27s_Generator",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8a/Winona%27s_Generator.png/40px-Winona%27s_Generator.png",
+        "crafting": {
+            "Log": 1,
+            "Nitre": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Winona's G.E.M.erator",
+        "url": "https://dontstarve.wiki.gg/wiki/Winona%27s_G.E.M.erator",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4a/Winona%27s_G.E.M.erator.png/40px-Winona%27s_G.E.M.erator.png",
+        "crafting": {
+            "Log": 4,
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "W.I.N.bot",
+        "url": "https://dontstarve.wiki.gg/wiki/W.I.N.bot",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/58/W.I.N.bot.png/40px-W.I.N.bot.png",
+        "crafting": {
+            "Scrap": 8,
+            "Gold Nugget": 8,
+            "Rocks": 12,
+            "Doohickey": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Portasol",
+        "url": "https://dontstarve.wiki.gg/wiki/Portasol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/81/Portasol.png/40px-Portasol.png",
+        "crafting": {
+            "Cut Grass": 12,
+            "Silk": 4,
+            "Gold Nugget": 8,
+            "Rocks": 12,
+            "Twigs": 4,
+            "Gizmo": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Teletransport Station",
+        "url": "https://dontstarve.wiki.gg/wiki/Teletransport_Station",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/Teletransport_Station.png/40px-Teletransport_Station.png",
+        "crafting": {
+            "Cut Grass": 18,
+            "Silk": 6,
+            "Gold Nugget": 12,
+            "Rocks": 18,
+            "Log": 12,
+            "Gizmo": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Inspectacles",
+        "url": "https://dontstarve.wiki.gg/wiki/Inspectacles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/20/Inspectacles.png/40px-Inspectacles.png",
+        "crafting": {
+            "Gold Nugget": 5,
+            "Pig Skin": 1,
+            "Rocks": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rose-Colored Glasses",
+        "url": "https://dontstarve.wiki.gg/wiki/Rose-Colored_Glasses",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e4/Rose-Colored_Glasses.png/40px-Rose-Colored_Glasses.png",
+        "crafting": {
+            "Petals": 12,
+            "Twigs": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Craftsmerm House",
+        "url": "https://dontstarve.wiki.gg/wiki/Craftsmerm_House",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fd/Craftsmerm_House.png/40px-Craftsmerm_House.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Reeds": 1,
+            "Freshwater Fish": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "DIY Royalty Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/DIY_Royalty_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5f/DIY_Royalty_Kit.png/40px-DIY_Royalty_Kit.png",
+        "crafting": {
+            "Log": 20,
+            "Cut Grass": 15
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Merm Flort-ifications",
+        "url": "https://dontstarve.wiki.gg/wiki/Merm_Flort-ifications",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b9/Merm_Flort-ifications.png/40px-Merm_Flort-ifications.png",
+        "crafting": {
+            "Log": 8,
+            "Twigs": 2,
+            "Cut Grass": 3,
+            "Flint": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Marsh Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Marsh_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/41/Marsh_Turf.png/40px-Marsh_Turf.png",
+        "crafting": {
+            "Cut Reeds": 1,
+            "Rot": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Clever Disguise",
+        "url": "https://dontstarve.wiki.gg/wiki/Clever_Disguise",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fa/Clever_Disguise.png/40px-Clever_Disguise.png",
+        "crafting": {
+            "Freshwater Fish": 1,
+            "Cut Reeds": 1,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lil' Itchy",
+        "url": "https://dontstarve.wiki.gg/wiki/Lil%27_Itchy",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a3/Lil%27_Itchy.png/40px-Lil%27_Itchy.png",
+        "crafting": {
+            "Mosquito Sack": 1,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Skeeter Bomb",
+        "url": "https://dontstarve.wiki.gg/wiki/Skeeter_Bomb",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/57/Skeeter_Bomb.png/40px-Skeeter_Bomb.png",
+        "crafting": {
+            "Mosquito Sack": 1,
+            "Mosquito": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fertilizzzer",
+        "url": "https://dontstarve.wiki.gg/wiki/Fertilizzzer",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/47/Fertilizzzer.png/40px-Fertilizzzer.png",
+        "crafting": {
+            "Mosquito Sack": 1,
+            "Nitre": 2,
+            "Manure": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Blood Shot",
+        "url": "https://dontstarve.wiki.gg/wiki/Blood_Shot",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/12/Blood_Shot.png/40px-Blood_Shot.png",
+        "crafting": {
+            "Mosquito Sack": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Communal Kelp Dish",
+        "url": "https://dontstarve.wiki.gg/wiki/Communal_Kelp_Dish",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cb/Communal_Kelp_Dish.png/40px-Communal_Kelp_Dish.png",
+        "crafting": {
+            "Log": 4,
+            "Cut Reeds": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Superior Communal Kelp Dish",
+        "url": "https://dontstarve.wiki.gg/wiki/Superior_Communal_Kelp_Dish",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9e/Superior_Communal_Kelp_Dish.png/40px-Superior_Communal_Kelp_Dish.png",
+        "crafting": {
+            "Log": 4,
+            "Cut Reeds": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Shoddy Tool Shed",
+        "url": "https://dontstarve.wiki.gg/wiki/Shoddy_Tool_Shed",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/Shoddy_Tool_Shed.png/40px-Shoddy_Tool_Shed.png",
+        "crafting": {
+            "Log": 4,
+            "Twigs": 2,
+            "Rocks": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Slightly Less Shoddy Tool Shed",
+        "url": "https://dontstarve.wiki.gg/wiki/Slightly_Less_Shoddy_Tool_Shed",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/61/Slightly_Less_Shoddy_Tool_Shed.png/40px-Slightly_Less_Shoddy_Tool_Shed.png",
+        "crafting": {
+            "Log": 8,
+            "Twigs": 2,
+            "Rocks": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Armermry",
+        "url": "https://dontstarve.wiki.gg/wiki/Armermry",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Armermry.png/40px-Armermry.png",
+        "crafting": {
+            "Log": 2,
+            "Cut Grass": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Superior Armermry",
+        "url": "https://dontstarve.wiki.gg/wiki/Superior_Armermry",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6c/Superior_Armermry.png/40px-Superior_Armermry.png",
+        "crafting": {
+            "Log": 2,
+            "Cut Grass": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Dreaded Mudslinger",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreaded_Mudslinger",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/79/Dreaded_Mudslinger.png/40px-Dreaded_Mudslinger.png",
+        "crafting": {
+            "Driftwood Piece": 1,
+            "Pure Horror": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brilliant Mudslinger",
+        "url": "https://dontstarve.wiki.gg/wiki/Brilliant_Mudslinger",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1c/Brilliant_Mudslinger.png/40px-Brilliant_Mudslinger.png",
+        "crafting": {
+            "Driftwood Piece": 1,
+            "Pure Brilliance": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Trusty Slingshot",
+        "url": "https://dontstarve.wiki.gg/wiki/Trusty_Slingshot",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9a/Trusty_Slingshot.png/40px-Trusty_Slingshot.png",
+        "crafting": {
+            "Twigs": 1,
+            "Mosquito Sack": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pinetree Pioneer Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Pinetree_Pioneer_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/00/Pinetree_Pioneer_Hat.png/40px-Pinetree_Pioneer_Hat.png",
+        "crafting": {
+            "Silk": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tent Roll",
+        "url": "https://dontstarve.wiki.gg/wiki/Tent_Roll",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/65/Tent_Roll.png/40px-Tent_Roll.png",
+        "crafting": {
+            "Cut Grass": 15,
+            "Twigs": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pebbles",
+        "url": "https://dontstarve.wiki.gg/wiki/Pebbles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Pebbles.png/40px-Pebbles.png",
+        "crafting": {
+            "Rocks": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Gold Rounds",
+        "url": "https://dontstarve.wiki.gg/wiki/Gold_Rounds",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Gold_Rounds.png/40px-Gold_Rounds.png",
+        "crafting": {
+            "Gold Nugget": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Marbles",
+        "url": "https://dontstarve.wiki.gg/wiki/Marbles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Marbles.png/40px-Marbles.png",
+        "crafting": {
+            "Marble": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Poop Pellets",
+        "url": "https://dontstarve.wiki.gg/wiki/Poop_Pellets",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Poop_Pellets.png/40px-Poop_Pellets.png",
+        "crafting": {
+            "Manure": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Freeze Rounds",
+        "url": "https://dontstarve.wiki.gg/wiki/Freeze_Rounds",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Freeze_Rounds.png/40px-Freeze_Rounds.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Blue Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Slow-Down Rounds",
+        "url": "https://dontstarve.wiki.gg/wiki/Slow-Down_Rounds",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2b/Slow-Down_Rounds.png/40px-Slow-Down_Rounds.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Purple Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cursed Rounds",
+        "url": "https://dontstarve.wiki.gg/wiki/Cursed_Rounds",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2c/Cursed_Rounds.png/40px-Cursed_Rounds.png",
+        "crafting": {
+            "Thulecite Fragments": 1,
+            "Nightmare Fuel": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Clockmaker's Tools",
+        "url": "https://dontstarve.wiki.gg/wiki/Clockmaker%27s_Tools",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Clockmaker%27s_Tools.png/40px-Clockmaker%27s_Tools.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Flint": 1,
+            "Twigs": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Time Pieces",
+        "url": "https://dontstarve.wiki.gg/wiki/Time_Pieces",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Time_Pieces.png/40px-Time_Pieces.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Flint": 1,
+            "Twigs": 3,
+            "Thulecite Fragments": 8,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ageless Watch",
+        "url": "https://dontstarve.wiki.gg/wiki/Ageless_Watch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/56/Ageless_Watch.png/40px-Ageless_Watch.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Flint": 1,
+            "Twigs": 3,
+            "Thulecite Fragments": 8,
+            "Nightmare Fuel": 2,
+            "Marble": 2,
+            "Red Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Second Chance Watch",
+        "url": "https://dontstarve.wiki.gg/wiki/Second_Chance_Watch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3b/Second_Chance_Watch.png/40px-Second_Chance_Watch.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Flint": 1,
+            "Twigs": 3,
+            "Thulecite Fragments": 8,
+            "Nightmare Fuel": 2,
+            "Living Log": 2,
+            "Bone Shards": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Backstep Watch",
+        "url": "https://dontstarve.wiki.gg/wiki/Backstep_Watch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6a/Backstep_Watch.png/40px-Backstep_Watch.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Flint": 1,
+            "Twigs": 3,
+            "Thulecite Fragments": 8,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Backtrek Watch",
+        "url": "https://dontstarve.wiki.gg/wiki/Backtrek_Watch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a6/Backtrek_Watch.png/40px-Backtrek_Watch.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Flint": 2,
+            "Twigs": 6,
+            "Thulecite Fragments": 16,
+            "Nightmare Fuel": 4,
+            "Walrus Tusk": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rift Watch",
+        "url": "https://dontstarve.wiki.gg/wiki/Rift_Watch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1e/Rift_Watch.png/40px-Rift_Watch.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Flint": 2,
+            "Twigs": 6,
+            "Thulecite Fragments": 16,
+            "Nightmare Fuel": 4,
+            "Walrus Tusk": 1,
+            "Purple Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Alarming Clock",
+        "url": "https://dontstarve.wiki.gg/wiki/Alarming_Clock",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0f/Alarming_Clock.png/40px-Alarming_Clock.png",
+        "crafting": {
+            "Gold Nugget": 3,
+            "Flint": 3,
+            "Twigs": 9,
+            "Thulecite Fragments": 24,
+            "Nightmare Fuel": 8,
+            "Marble": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Axe",
+        "url": "https://dontstarve.wiki.gg/wiki/Axe/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fb/Axe.png/40px-Axe.png",
+        "crafting": {
+            "Twigs": 1,
+            "Flint": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pickaxe",
+        "url": "https://dontstarve.wiki.gg/wiki/Pickaxe/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b7/Pickaxe.png/40px-Pickaxe.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shovel",
+        "url": "https://dontstarve.wiki.gg/wiki/Shovel/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/77/Shovel.png/40px-Shovel.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Hammer",
+        "url": "https://dontstarve.wiki.gg/wiki/Hammer/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/81/Hammer.png/40px-Hammer.png",
+        "crafting": {
+            "Twigs": 3,
+            "Rocks": 3,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Garden Hoe",
+        "url": "https://dontstarve.wiki.gg/wiki/Garden_Hoe",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/86/Garden_Hoe.png/40px-Garden_Hoe.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pitchfork",
+        "url": "https://dontstarve.wiki.gg/wiki/Pitchfork",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1c/Pitchfork.png/40px-Pitchfork.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Luxury Axe",
+        "url": "https://dontstarve.wiki.gg/wiki/Luxury_Axe/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e9/Luxury_Axe.png/40px-Luxury_Axe.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Opulent Pickaxe",
+        "url": "https://dontstarve.wiki.gg/wiki/Opulent_Pickaxe/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6b/Opulent_Pickaxe.png/40px-Opulent_Pickaxe.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Regal Shovel",
+        "url": "https://dontstarve.wiki.gg/wiki/Regal_Shovel/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e2/Regal_Shovel.png/40px-Regal_Shovel.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Splendid Garden Hoe",
+        "url": "https://dontstarve.wiki.gg/wiki/Splendid_Garden_Hoe",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Splendid_Garden_Hoe.png/40px-Splendid_Garden_Hoe.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Snazzy Pitchfork",
+        "url": "https://dontstarve.wiki.gg/wiki/Snazzy_Pitchfork",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Snazzy_Pitchfork.png/40px-Snazzy_Pitchfork.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Trap",
+        "url": "https://dontstarve.wiki.gg/wiki/Trap/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a9/Trap.png/40px-Trap.png",
+        "crafting": {
+            "Cut Grass": 6,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bird Trap",
+        "url": "https://dontstarve.wiki.gg/wiki/Bird_Trap/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Bird_Trap.png/40px-Bird_Trap.png",
+        "crafting": {
+            "Twigs": 3,
+            "Silk": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bug Net",
+        "url": "https://dontstarve.wiki.gg/wiki/Bug_Net/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d5/Bug_Net.png/40px-Bug_Net.png",
+        "crafting": {
+            "Twigs": 4,
+            "Silk": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Razor",
+        "url": "https://dontstarve.wiki.gg/wiki/Razor/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a0/Razor.png/40px-Razor.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Compass",
+        "url": "https://dontstarve.wiki.gg/wiki/Compass/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/92/Compass.png/40px-Compass.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Flint": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Walking Cane",
+        "url": "https://dontstarve.wiki.gg/wiki/Walking_Cane",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b6/Walking_Cane.png/40px-Walking_Cane.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Walrus Tusk": 1,
+            "Twigs": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sewing Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Sewing_Kit/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Sewing_Kit.png/40px-Sewing_Kit.png",
+        "crafting": {
+            "Log": 1,
+            "Silk": 8,
+            "Hound's Tooth": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Auto-Mat-O-Chanic",
+        "url": "https://dontstarve.wiki.gg/wiki/Auto-Mat-O-Chanic",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f3/Auto-Mat-O-Chanic.png/40px-Auto-Mat-O-Chanic.png",
+        "crafting": {
+            "Scrap": 1,
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Flare",
+        "url": "https://dontstarve.wiki.gg/wiki/Flare",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/54/Flare.png/40px-Flare.png",
+        "crafting": {
+            "Cut Grass": 1,
+            "Twigs": 1,
+            "Nitre": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Hostile Flare",
+        "url": "https://dontstarve.wiki.gg/wiki/Hostile_Flare",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bb/Hostile_Flare.png/40px-Hostile_Flare.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Twigs": 3,
+            "Nitre": 3,
+            "Glommer's Goop": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Watering Can",
+        "url": "https://dontstarve.wiki.gg/wiki/Watering_Can",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/51/Watering_Can.png/40px-Watering_Can.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Waterfowl Can",
+        "url": "https://dontstarve.wiki.gg/wiki/Waterfowl_Can",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Waterfowl_Can.png/40px-Waterfowl_Can.png",
+        "crafting": {
+            "Driftwood Piece": 2,
+            "Cut Grass": 3,
+            "Malbatross Bill": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fishing Rod",
+        "url": "https://dontstarve.wiki.gg/wiki/Fishing_Rod/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c7/Fishing_Rod.png/40px-Fishing_Rod.png"
+    },
+    {
+        "title": "Sea Fishing Rod",
+        "url": "https://dontstarve.wiki.gg/wiki/Sea_Fishing_Rod",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7b/Sea_Fishing_Rod.png/40px-Sea_Fishing_Rod.png",
+        "crafting": {
+            "Log": 4,
+            "Silk": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pocket Scale",
+        "url": "https://dontstarve.wiki.gg/wiki/Pocket_Scale",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9e/Pocket_Scale.png/40px-Pocket_Scale.png",
+        "crafting": {
+            "Log": 1,
+            "Rocks": 3,
+            "Gold Nugget": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beefalo Bell",
+        "url": "https://dontstarve.wiki.gg/wiki/Beefalo_Bell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/Beefalo_Bell.png/40px-Beefalo_Bell.png",
+        "crafting": {
+            "Gold Nugget": 3,
+            "Flint": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Saddlehorn",
+        "url": "https://dontstarve.wiki.gg/wiki/Saddlehorn",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f3/Saddlehorn.png/40px-Saddlehorn.png",
+        "crafting": {
+            "Twigs": 2,
+            "Bone Shards": 2,
+            "Jet Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brush",
+        "url": "https://dontstarve.wiki.gg/wiki/Brush/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bc/Brush.png/40px-Brush.png",
+        "crafting": {
+            "Steel Wool": 1,
+            "Walrus Tusk": 1,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Turf-Raiser Helm",
+        "url": "https://dontstarve.wiki.gg/wiki/Turf-Raiser_Helm",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1a/Turf-Raiser_Helm.png/40px-Turf-Raiser_Helm.png",
+        "crafting": {
+            "Beefalo Wool": 5,
+            "Pig Skin": 3,
+            "Desert Stone": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Feather Pencil",
+        "url": "https://dontstarve.wiki.gg/wiki/Feather_Pencil/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3d/Feather_Pencil.png/40px-Feather_Pencil.png",
+        "crafting": {
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ocuvigil",
+        "url": "https://dontstarve.wiki.gg/wiki/Ocuvigil",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a2/Ocuvigil.png/40px-Ocuvigil.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Astral Detector",
+        "url": "https://dontstarve.wiki.gg/wiki/Astral_Detector",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d2/Astral_Detector.png/40px-Astral_Detector.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Thulecite Fragments": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Clean Sweeper",
+        "url": "https://dontstarve.wiki.gg/wiki/Clean_Sweeper",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e0/Clean_Sweeper.png/40px-Clean_Sweeper.png",
+        "crafting": {
+            "Twigs": 1,
+            "Petals": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Torch",
+        "url": "https://dontstarve.wiki.gg/wiki/Torch/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b2/Torch.png/40px-Torch.png",
+        "crafting": {
+            "Cut Grass": 2,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Campfire",
+        "url": "https://dontstarve.wiki.gg/wiki/Campfire/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/01/Campfire.png/40px-Campfire.png",
+        "crafting": {
+            "Log": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Campfire",
+        "url": "https://dontstarve.wiki.gg/wiki/Campfire/DST#Fire_Pit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/33/Fire_Pit.png/40px-Fire_Pit.png",
+        "crafting": {
+            "Log": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Humble Lamb Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Humble_Lamb_Idol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/43/Humble_Lamb_Idol.png/40px-Humble_Lamb_Idol.png",
+        "crafting": {
+            "Rocks": 5,
+            "Log": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Endothermic Fire",
+        "url": "https://dontstarve.wiki.gg/wiki/Endothermic_Fire",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/73/Endothermic_Fire.png/40px-Endothermic_Fire.png",
+        "crafting": {
+            "Nitre": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Endothermic Fire Pit",
+        "url": "https://dontstarve.wiki.gg/wiki/Endothermic_Fire_Pit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/71/Endothermic_Fire_Pit.png/40px-Endothermic_Fire_Pit.png",
+        "crafting": {
+            "Nitre": 1,
+            "Rocks": 9,
+            "Gold Nugget": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Pumpkin Lantern",
+        "url": "https://dontstarve.wiki.gg/wiki/Pumpkin_Lantern",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/40/Pumpkin_Lantern.png/40px-Pumpkin_Lantern.png",
+        "crafting": {
+            "Pumpkin": 1,
+            "Fireflies": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Miner Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Miner_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1f/Miner_Hat.png/40px-Miner_Hat.png",
+        "crafting": {
+            "Cut Grass": 12,
+            "Gold Nugget": 1,
+            "Fireflies": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Moggles",
+        "url": "https://dontstarve.wiki.gg/wiki/Moggles/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/02/Moggles.png/40px-Moggles.png",
+        "crafting": {
+            "Moleworm": 2,
+            "Gold Nugget": 4,
+            "Rocks": 6,
+            "Glow Berry": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lantern",
+        "url": "https://dontstarve.wiki.gg/wiki/Lantern/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f5/Lantern.png/40px-Lantern.png",
+        "crafting": {
+            "Light Bulb": 2,
+            "Twigs": 3,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Morning Star",
+        "url": "https://dontstarve.wiki.gg/wiki/Morning_Star/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bc/Morning_Star.png/40px-Morning_Star.png",
+        "crafting": {
+            "Volt Goat Horn": 1,
+            "Gold Nugget": 4,
+            "Rocks": 6,
+            "Nitre": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Night Light",
+        "url": "https://dontstarve.wiki.gg/wiki/Night_Light",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c5/Night_Light.png/40px-Night_Light.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Nightmare Fuel": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Scaled Furnace",
+        "url": "https://dontstarve.wiki.gg/wiki/Scaled_Furnace",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/21/Scaled_Furnace.png/40px-Scaled_Furnace.png",
+        "crafting": {
+            "Red Gem": 1,
+            "Charcoal": 5
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Mushlight",
+        "url": "https://dontstarve.wiki.gg/wiki/Mushlight",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/ff/Mushlight.png/40px-Mushlight.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Glowcap",
+        "url": "https://dontstarve.wiki.gg/wiki/Glowcap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b3/Glowcap.png/40px-Glowcap.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Science Machine",
+        "url": "https://dontstarve.wiki.gg/wiki/Science_Machine/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/25/Science_Machine.png/40px-Science_Machine.png",
+        "crafting": {
+            "Log": 2,
+            "Rocks": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Alchemy Engine",
+        "url": "https://dontstarve.wiki.gg/wiki/Alchemy_Engine/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7e/Alchemy_Engine.png/40px-Alchemy_Engine.png",
+        "crafting": {
+            "Log": 8,
+            "Rocks": 6,
+            "Gold Nugget": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Think Tank",
+        "url": "https://dontstarve.wiki.gg/wiki/Think_Tank",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2e/Think_Tank.png/40px-Think_Tank.png",
+        "crafting": {
+            "Log": 8
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Tackle Receptacle",
+        "url": "https://dontstarve.wiki.gg/wiki/Tackle_Receptacle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Tackle_Receptacle.png/40px-Tackle_Receptacle.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Cartographer's Desk",
+        "url": "https://dontstarve.wiki.gg/wiki/Cartographer%27s_Desk",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fc/Cartographer%27s_Desk.png/40px-Cartographer%27s_Desk.png",
+        "crafting": {
+            "Log": 8
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Prestihatitator",
+        "url": "https://dontstarve.wiki.gg/wiki/Prestihatitator",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/09/Prestihatitator.png/40px-Prestihatitator.png",
+        "crafting": {
+            "Rabbit": 2,
+            "Log": 8
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Shadow Manipulator",
+        "url": "https://dontstarve.wiki.gg/wiki/Shadow_Manipulator",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/de/Shadow_Manipulator.png/40px-Shadow_Manipulator.png",
+        "crafting": {
+            "Living Log": 1,
+            "Nightmare Fuel": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Potter's Wheel",
+        "url": "https://dontstarve.wiki.gg/wiki/Potter%27s_Wheel",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/95/Potter%27s_Wheel.png/40px-Potter%27s_Wheel.png",
+        "crafting": {
+            "Rocks": 3,
+            "Log": 4,
+            "Twigs": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Terra Firma Tamper",
+        "url": "https://dontstarve.wiki.gg/wiki/Terra_Firma_Tamper",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d8/Terra_Firma_Tamper.png/40px-Terra_Firma_Tamper.png",
+        "crafting": {
+            "Rocks": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Sawhorse",
+        "url": "https://dontstarve.wiki.gg/wiki/Sawhorse",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/40/Sawhorse.png/40px-Sawhorse.png",
+        "crafting": {
+            "Log": 16,
+            "Flint": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Mad Scientist Lab",
+        "url": "https://dontstarve.wiki.gg/wiki/Mad_Scientist_Lab",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/96/Mad_Scientist_Lab.png/40px-Mad_Scientist_Lab.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Rocks": 12
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Masonry Oven",
+        "url": "https://dontstarve.wiki.gg/wiki/Masonry_Oven",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d9/Masonry_Oven.png/40px-Masonry_Oven.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Gobbler Shrine",
+        "url": "https://dontstarve.wiki.gg/wiki/Gobbler_Shrine",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/40/Gobbler_Shrine.png/40px-Gobbler_Shrine.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Varg Shrine",
+        "url": "https://dontstarve.wiki.gg/wiki/Varg_Shrine",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/de/Varg_Shrine.png/40px-Varg_Shrine.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pig Shrine",
+        "url": "https://dontstarve.wiki.gg/wiki/Pig_Shrine",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d7/Pig_Shrine.png/40px-Pig_Shrine.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Carrat Shrine",
+        "url": "https://dontstarve.wiki.gg/wiki/Carrat_Shrine",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/19/Carrat_Shrine.png/40px-Carrat_Shrine.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beefalo Shrine",
+        "url": "https://dontstarve.wiki.gg/wiki/Beefalo_Shrine",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/85/Beefalo_Shrine.png/40px-Beefalo_Shrine.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Catcoon Shrine",
+        "url": "https://dontstarve.wiki.gg/wiki/Catcoon_Shrine",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/91/Catcoon_Shrine.png/40px-Catcoon_Shrine.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Log": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rope",
+        "url": "https://dontstarve.wiki.gg/wiki/Rope/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b4/Rope.png/40px-Rope.png",
+        "crafting": {
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cut Stone",
+        "url": "https://dontstarve.wiki.gg/wiki/Cut_Stone/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ef/Cut_Stone.png/40px-Cut_Stone.png",
+        "crafting": {
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Papyrus",
+        "url": "https://dontstarve.wiki.gg/wiki/Papyrus/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/12/Papyrus.png/40px-Papyrus.png",
+        "crafting": {
+            "Cut Reeds": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Electrical Doodad",
+        "url": "https://dontstarve.wiki.gg/wiki/Electrical_Doodad/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6c/Electrical_Doodad.png/40px-Electrical_Doodad.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Wax Paper",
+        "url": "https://dontstarve.wiki.gg/wiki/Wax_Paper/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f6/Wax_Paper.png/40px-Wax_Paper.png",
+        "crafting": {
+            "Honeycomb": 1,
+            "Cut Reeds": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beeswax",
+        "url": "https://dontstarve.wiki.gg/wiki/Beeswax",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e4/Beeswax.png/40px-Beeswax.png",
+        "crafting": {
+            "Honeycomb": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Marble Bean",
+        "url": "https://dontstarve.wiki.gg/wiki/Marble_Bean",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0f/Marble_Bean.png/40px-Marble_Bean.png",
+        "crafting": {
+            "Marble": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cratered Moonrock",
+        "url": "https://dontstarve.wiki.gg/wiki/Cratered_Moonrock",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Cratered_Moonrock.png/40px-Cratered_Moonrock.png",
+        "crafting": {
+            "Moon Rock": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Collected Dust",
+        "url": "https://dontstarve.wiki.gg/wiki/Collected_Dust",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c1/Collected_Dust.png/40px-Collected_Dust.png",
+        "crafting": {
+            "Salt Crystals": 1,
+            "Rocks": 2,
+            "Nitre": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Spear",
+        "url": "https://dontstarve.wiki.gg/wiki/Spear/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4f/Spear.png/40px-Spear.png",
+        "crafting": {
+            "Twigs": 2,
+            "Cut Grass": 3,
+            "Flint": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Battle Spear",
+        "url": "https://dontstarve.wiki.gg/wiki/Battle_Spear",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/26/Battle_Spear.png/40px-Battle_Spear.png",
+        "crafting": {
+            "Twigs": 2,
+            "Flint": 2,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Boomerang",
+        "url": "https://dontstarve.wiki.gg/wiki/Boomerang/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/Boomerang.png/40px-Boomerang.png",
+        "crafting": {
+            "Log": 4,
+            "Silk": 1,
+            "Charcoal": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ham Bat",
+        "url": "https://dontstarve.wiki.gg/wiki/Ham_Bat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b9/Ham_Bat.png/40px-Ham_Bat.png",
+        "crafting": {
+            "Pig Skin": 1,
+            "Twigs": 2,
+            "Meat": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bat Bat",
+        "url": "https://dontstarve.wiki.gg/wiki/Bat_Bat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/Bat_Bat.png/40px-Bat_Bat.png",
+        "crafting": {
+            "Batilisk Wing": 3,
+            "Living Log": 2,
+            "Purple Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tail o' Three Cats",
+        "url": "https://dontstarve.wiki.gg/wiki/Tail_o%27_Three_Cats",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Tail_o%27_Three_Cats.png/40px-Tail_o%27_Three_Cats.png",
+        "crafting": {
+            "Cat Tail": 3,
+            "Tentacle Spots": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dark Sword",
+        "url": "https://dontstarve.wiki.gg/wiki/Dark_Sword/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2e/Dark_Sword.png/40px-Dark_Sword.png",
+        "crafting": {
+            "Nightmare Fuel": 5,
+            "Living Log": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Napsack",
+        "url": "https://dontstarve.wiki.gg/wiki/Napsack",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6e/Napsack.png/40px-Napsack.png",
+        "crafting": {
+            "Shroom Skin": 1,
+            "Canary (Volatile)": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Blow Dart",
+        "url": "https://dontstarve.wiki.gg/wiki/Blow_Dart",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e0/Blow_Dart.png/40px-Blow_Dart.png"
+    },
+    {
+        "title": "Fire Dart",
+        "url": "https://dontstarve.wiki.gg/wiki/Fire_Dart",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/84/Fire_Dart.png/40px-Fire_Dart.png",
+        "crafting": {
+            "Cut Reeds": 2,
+            "Charcoal": 1,
+            "Crimson Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Electric Dart",
+        "url": "https://dontstarve.wiki.gg/wiki/Electric_Dart",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Electric_Dart.png/40px-Electric_Dart.png",
+        "crafting": {
+            "Cut Reeds": 2,
+            "Gold Nugget": 1,
+            "Saffron Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sleep Dart",
+        "url": "https://dontstarve.wiki.gg/wiki/Sleep_Dart",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f1/Sleep_Dart.png/40px-Sleep_Dart.png",
+        "crafting": {
+            "Cut Reeds": 2,
+            "Stinger": 1,
+            "Jet Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Weather Pain",
+        "url": "https://dontstarve.wiki.gg/wiki/Weather_Pain/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5d/Weather_Pain.png/40px-Weather_Pain.png",
+        "crafting": {
+            "Down Feather": 10,
+            "Volt Goat Horn": 1,
+            "Gears": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Strident Trident",
+        "url": "https://dontstarve.wiki.gg/wiki/Strident_Trident",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f6/Strident_Trident.png/40px-Strident_Trident.png",
+        "crafting": {
+            "Gnarwail Horn": 3,
+            "Kelp Fronds": 4,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fire Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Fire_Staff",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/10/Fire_Staff.png/40px-Fire_Staff.png",
+        "crafting": {
+            "Nightmare Fuel": 2,
+            "Twigs": 2,
+            "Cut Grass": 3,
+            "Flint": 1,
+            "Red Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ice Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Ice_Staff/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3c/Ice_Staff.png/40px-Ice_Staff.png",
+        "crafting": {
+            "Twigs": 2,
+            "Cut Grass": 3,
+            "Flint": 1,
+            "Blue Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Gunpowder",
+        "url": "https://dontstarve.wiki.gg/wiki/Gunpowder/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ae/Gunpowder.png/40px-Gunpowder.png",
+        "crafting": {
+            "Rotten Egg": 1,
+            "Charcoal": 1,
+            "Nitre": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pan Flute",
+        "url": "https://dontstarve.wiki.gg/wiki/Pan_Flute/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/07/Pan_Flute.png/40px-Pan_Flute.png",
+        "crafting": {
+            "Cut Reeds": 5,
+            "Mandrake (item)": 1,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tooth Trap",
+        "url": "https://dontstarve.wiki.gg/wiki/Tooth_Trap/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Tooth_Trap.png/40px-Tooth_Trap.png",
+        "crafting": {
+            "Log": 1,
+            "Cut Grass": 3,
+            "Hound's Tooth": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bee Mine",
+        "url": "https://dontstarve.wiki.gg/wiki/Bee_Mine/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/12/Bee_Mine.png/40px-Bee_Mine.png",
+        "crafting": {
+            "Bee": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Water Balloon",
+        "url": "https://dontstarve.wiki.gg/wiki/Water_Balloon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f9/Waterballoon.png/40px-Waterballoon.png",
+        "crafting": {
+            "Mosquito Sack": 2,
+            "Ice": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cannon Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Cannon_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/01/Cannon_Kit.png/40px-Cannon_Kit.png",
+        "crafting": {
+            "Palmcone Scale": 4,
+            "Cut Grass": 3,
+            "Charcoal": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cannonball",
+        "url": "https://dontstarve.wiki.gg/wiki/Cannonball",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fa/Cannonball.png/40px-Cannonball.png",
+        "crafting": {
+            "Rocks": 6,
+            "Rotten Egg": 1,
+            "Charcoal": 1,
+            "Nitre": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fencing Sword",
+        "url": "https://dontstarve.wiki.gg/wiki/Fencing_Sword",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/76/Fencing_Sword.png/40px-Fencing_Sword.png",
+        "crafting": {
+            "Twigs": 2,
+            "Cut Grass": 3,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Grass Suit",
+        "url": "https://dontstarve.wiki.gg/wiki/Grass_Suit/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/38/Grass_Suit.png/40px-Grass_Suit.png",
+        "crafting": {
+            "Cut Grass": 10,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Log Suit",
+        "url": "https://dontstarve.wiki.gg/wiki/Log_Suit/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b7/Log_Suit.png/40px-Log_Suit.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Scalemail",
+        "url": "https://dontstarve.wiki.gg/wiki/Scalemail",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/59/Scalemail.png/40px-Scalemail.png",
+        "crafting": {
+            "Scales": 1,
+            "Log": 8,
+            "Cut Grass": 6,
+            "Pig Skin": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Night Armor",
+        "url": "https://dontstarve.wiki.gg/wiki/Night_Armor/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Night_Armor.png/40px-Night_Armor.png",
+        "crafting": {
+            "Nightmare Fuel": 5,
+            "Cut Reeds": 12
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Marble Suit",
+        "url": "https://dontstarve.wiki.gg/wiki/Marble_Suit/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fc/Marble_Suit.png/40px-Marble_Suit.png",
+        "crafting": {
+            "Marble": 6,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Football Helmet",
+        "url": "https://dontstarve.wiki.gg/wiki/Football_Helmet/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8e/Football_Helmet.png/40px-Football_Helmet.png",
+        "crafting": {
+            "Pig Skin": 1,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cookie Cutter Cap",
+        "url": "https://dontstarve.wiki.gg/wiki/Cookie_Cutter_Cap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1c/Cookie_Cutter_Cap.png/40px-Cookie_Cutter_Cap.png",
+        "crafting": {
+            "Cookie Cutter Shell": 4,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beekeeper Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Beekeeper_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/70/Beekeeper_Hat.png/40px-Beekeeper_Hat.png",
+        "crafting": {
+            "Silk": 8,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dreadstone Armor",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone_Armor",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b4/Dreadstone_Armor.png/40px-Dreadstone_Armor.png",
+        "crafting": {
+            "Dreadstone": 6,
+            "Pure Horror": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dreadstone Helm",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone_Helm",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7e/Dreadstone_Helm.png/40px-Dreadstone_Helm.png",
+        "crafting": {
+            "Dreadstone": 4,
+            "Pure Horror": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "W.A.R.B.I.S. Armor",
+        "url": "https://dontstarve.wiki.gg/wiki/W.A.R.B.I.S._Armor",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/W.A.R.B.I.S._Armor.png/40px-W.A.R.B.I.S._Armor.png",
+        "crafting": {
+            "Scrap": 8,
+            "Gold Nugget": 6,
+            "Rocks": 9,
+            "Enlightened Shard": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "W.A.R.B.I.S. Head Gear",
+        "url": "https://dontstarve.wiki.gg/wiki/W.A.R.B.I.S._Head_Gear",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/W.A.R.B.I.S._Head_Gear.png/40px-W.A.R.B.I.S._Head_Gear.png",
+        "crafting": {
+            "Scrap": 8,
+            "Gold Nugget": 6,
+            "Rocks": 9,
+            "Enlightened Shard": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sewing Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Sewing_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Sewing_Kit.png/40px-Sewing_Kit.png",
+        "crafting": {
+            "Log": 1,
+            "Silk": 8,
+            "Hound's Tooth": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Backpack",
+        "url": "https://dontstarve.wiki.gg/wiki/Backpack/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b1/Backpack.png/40px-Backpack.png",
+        "crafting": {
+            "Cut Grass": 4,
+            "Twigs": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Seed Pack-It",
+        "url": "https://dontstarve.wiki.gg/wiki/Seed_Pack-It",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/50/Seed_Pack-It.png/40px-Seed_Pack-It.png",
+        "crafting": {
+            "Broken Shell (DST)": 2,
+            "Cut Grass": 4,
+            "Seeds": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Piggyback",
+        "url": "https://dontstarve.wiki.gg/wiki/Piggyback/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5b/Piggyback.png/40px-Piggyback.png",
+        "crafting": {
+            "Pig Skin": 4,
+            "Silk": 6,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Insulated Pack",
+        "url": "https://dontstarve.wiki.gg/wiki/Insulated_Pack/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/21/Insulated_Pack.png/40px-Insulated_Pack.png",
+        "crafting": {
+            "Thick Fur": 1,
+            "Gears": 1,
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "One-man Band",
+        "url": "https://dontstarve.wiki.gg/wiki/One-man_Band/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/One-man_Band.png/40px-One-man_Band.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Nightmare Fuel": 4,
+            "Pig Skin": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Belt of Hunger",
+        "url": "https://dontstarve.wiki.gg/wiki/Belt_of_Hunger/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cc/Belt_of_Hunger.png/40px-Belt_of_Hunger.png",
+        "crafting": {
+            "Slurper Pelt": 6,
+            "Cut Grass": 6,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Whirly Fan",
+        "url": "https://dontstarve.wiki.gg/wiki/Whirly_Fan",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5b/Whirly_Fan.png/40px-Whirly_Fan.png",
+        "crafting": {
+            "Twigs": 3,
+            "Petals": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pretty Parasol",
+        "url": "https://dontstarve.wiki.gg/wiki/Pretty_Parasol/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d3/Pretty_Parasol.png/40px-Pretty_Parasol.png",
+        "crafting": {
+            "Twigs": 4,
+            "Cut Grass": 3,
+            "Petals": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Umbrella",
+        "url": "https://dontstarve.wiki.gg/wiki/Umbrella/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/06/Umbrella.png/40px-Umbrella.png",
+        "crafting": {
+            "Twigs": 6,
+            "Pig Skin": 1,
+            "Silk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Luxury Fan",
+        "url": "https://dontstarve.wiki.gg/wiki/Luxury_Fan/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a0/Luxury_Fan.png/40px-Luxury_Fan.png",
+        "crafting": {
+            "Down Feather": 5,
+            "Cut Reeds": 2,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Garland",
+        "url": "https://dontstarve.wiki.gg/wiki/Garland/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/69/Garland.png/40px-Garland.png",
+        "crafting": {
+            "Petals": 12
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fashion Goggles",
+        "url": "https://dontstarve.wiki.gg/wiki/Fashion_Goggles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cb/Fashion_Goggles.png/40px-Fashion_Goggles.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Pig Skin": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Seawreath",
+        "url": "https://dontstarve.wiki.gg/wiki/Seawreath",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1d/Seawreath.png/40px-Seawreath.png",
+        "crafting": {
+            "Kelp Fronds": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Straw Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Straw_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b2/Straw_Hat.png/40px-Straw_Hat.png",
+        "crafting": {
+            "Cut Grass": 12
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Top Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Top_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8d/Top_Hat.png/40px-Top_Hat.png",
+        "crafting": {
+            "Silk": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rain Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Rain_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e3/Rain_Hat.png/40px-Rain_Hat.png",
+        "crafting": {
+            "Moleworm": 2,
+            "Cut Grass": 12,
+            "Bone Shards": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rabbit Earmuffs",
+        "url": "https://dontstarve.wiki.gg/wiki/Rabbit_Earmuffs/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5d/Rabbit_Earmuffs.png/40px-Rabbit_Earmuffs.png",
+        "crafting": {
+            "Rabbit": 2,
+            "Twigs": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Cat Cap",
+        "url": "https://dontstarve.wiki.gg/wiki/Cat_Cap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/54/Cat_Cap.png/40px-Cat_Cap.png",
+        "crafting": {
+            "Cat Tail": 1,
+            "Silk": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Winter Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Winter_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/26/Winter_Hat.png/40px-Winter_Hat.png",
+        "crafting": {
+            "Beefalo Wool": 4,
+            "Silk": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beefalo Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Beefalo_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b1/Beefalo_Hat.png/40px-Beefalo_Hat.png",
+        "crafting": {
+            "Beefalo Wool": 8,
+            "Beefalo Horn": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Desert Goggles",
+        "url": "https://dontstarve.wiki.gg/wiki/Desert_Goggles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c4/Desert_Goggles.png/40px-Desert_Goggles.png",
+        "crafting": {
+            "Gold Nugget": 1,
+            "Pig Skin": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Astroggles",
+        "url": "https://dontstarve.wiki.gg/wiki/Astroggles",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/40/Astroggles.png/40px-Astroggles.png",
+        "crafting": {
+            "Moon Shard": 2,
+            "Potato": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fashion Melon",
+        "url": "https://dontstarve.wiki.gg/wiki/Fashion_Melon/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fe/Fashion_Melon.png/40px-Fashion_Melon.png",
+        "crafting": {
+            "Watermelon": 1,
+            "Twigs": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ice Cube",
+        "url": "https://dontstarve.wiki.gg/wiki/Ice_Cube/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f9/Ice_Cube.png/40px-Ice_Cube.png",
+        "crafting": {
+            "Gold Nugget": 4,
+            "Rocks": 6,
+            "Cut Grass": 12,
+            "Ice": 10
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Feather Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Feather_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/19/Feather_Hat.png/40px-Feather_Hat.png",
+        "crafting": {
+            "Jet Feather": 3,
+            "Crimson Feather": 2,
+            "Tentacle Spots": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bush Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Bush_Hat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a3/Bush_Hat.png/40px-Bush_Hat.png",
+        "crafting": {
+            "Cut Grass": 15,
+            "Berry Bush Item": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rain Coat",
+        "url": "https://dontstarve.wiki.gg/wiki/Rain_Coat/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/28/Rain_Coat.png/40px-Rain_Coat.png",
+        "crafting": {
+            "Tentacle Spots": 2,
+            "Cut Grass": 6,
+            "Bone Shards": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dapper Vest",
+        "url": "https://dontstarve.wiki.gg/wiki/Dapper_Vest/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d9/Dapper_Vest.png/40px-Dapper_Vest.png",
+        "crafting": {
+            "Hound's Tooth": 8,
+            "Silk": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Breezy Vest",
+        "url": "https://dontstarve.wiki.gg/wiki/Breezy_Vest/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ec/Breezy_Vest.png/40px-Breezy_Vest.png",
+        "crafting": {
+            "Koalefant Trunk": 1,
+            "Silk": 8
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Puffy Vest",
+        "url": "https://dontstarve.wiki.gg/wiki/Puffy_Vest/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/47/Puffy_Vest.png/40px-Puffy_Vest.png",
+        "crafting": {
+            "Winter Koalefant Trunk": 1,
+            "Silk": 8,
+            "Beefalo Wool": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Summer Frest",
+        "url": "https://dontstarve.wiki.gg/wiki/Summer_Frest/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7f/Summer_Frest.png/40px-Summer_Frest.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Crimson Feather": 3,
+            "Pig Skin": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Floral Shirt",
+        "url": "https://dontstarve.wiki.gg/wiki/Floral_Shirt/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f7/Floral_Shirt.png/40px-Floral_Shirt.png",
+        "crafting": {
+            "Cut Reeds": 12,
+            "Silk": 3,
+            "Cactus Flower": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Hibearnation Vest",
+        "url": "https://dontstarve.wiki.gg/wiki/Hibearnation_Vest/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/67/Hibearnation_Vest.png/40px-Hibearnation_Vest.png",
+        "crafting": {
+            "Thick Fur": 1,
+            "Hound's Tooth": 8,
+            "Silk": 6,
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Eyebrella",
+        "url": "https://dontstarve.wiki.gg/wiki/Eyebrella/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fb/Eyebrella.png/40px-Eyebrella.png",
+        "crafting": {
+            "Deerclops Eyeball": 1,
+            "Twigs": 15,
+            "Bone Shards": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Red Funcap",
+        "url": "https://dontstarve.wiki.gg/wiki/Red_Funcap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d5/Red_Funcap.png/40px-Red_Funcap.png"
+    },
+    {
+        "title": "Green Funcap",
+        "url": "https://dontstarve.wiki.gg/wiki/Green_Funcap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/ca/Green_Funcap.png/40px-Green_Funcap.png"
+    },
+    {
+        "title": "Blue Funcap",
+        "url": "https://dontstarve.wiki.gg/wiki/Blue_Funcap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6c/Blue_Funcap.png/40px-Blue_Funcap.png"
+    },
+    {
+        "title": "Polly Roger's Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Polly_Roger%27s_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/10/Polly_Roger%27s_Hat.png/40px-Polly_Roger%27s_Hat.png",
+        "crafting": {
+            "Captain's Tricorn": 1,
+            "Saffron Feather": 1,
+            "Black Flag": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Healing Salve",
+        "url": "https://dontstarve.wiki.gg/wiki/Healing_Salve/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9c/Healing_Salve.png/40px-Healing_Salve.png",
+        "crafting": {
+            "Ashes": 2,
+            "Rocks": 1,
+            "Spider Gland": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Slimy Salve",
+        "url": "https://dontstarve.wiki.gg/wiki/Slimy_Salve",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/42/Slimy_Salve.png/40px-Slimy_Salve.png",
+        "crafting": {
+            "Ashes": 2,
+            "Rocks": 1,
+            "Spider Gland": 1,
+            "Nitre": 1,
+            "Marble": 1,
+            "Slurtle Slime": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Honey Poultice",
+        "url": "https://dontstarve.wiki.gg/wiki/Honey_Poultice/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/28/Honey_Poultice.png/40px-Honey_Poultice.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Honey": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tillweed Salve",
+        "url": "https://dontstarve.wiki.gg/wiki/Tillweed_Salve",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fa/Tillweed_Salve.png/40px-Tillweed_Salve.png",
+        "crafting": {
+            "Tillweeds": 4,
+            "Petals": 4,
+            "Charcoal": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Telltale Heart",
+        "url": "https://dontstarve.wiki.gg/wiki/Telltale_Heart",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/99/Telltale_Heart.png/40px-Telltale_Heart.png",
+        "crafting": {
+            "Cut Grass": 3,
+            "Spider Gland": 1,
+            "Health Decrease": 40
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Booster Shot",
+        "url": "https://dontstarve.wiki.gg/wiki/Booster_Shot",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5c/Booster_Shot.png/40px-Booster_Shot.png",
+        "crafting": {
+            "Rot": 8,
+            "Nitre": 2,
+            "Stinger": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Life Giving Amulet",
+        "url": "https://dontstarve.wiki.gg/wiki/Life_Giving_Amulet/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f9/Life_Giving_Amulet.png/40px-Life_Giving_Amulet.png",
+        "crafting": {
+            "Gold Nugget": 3,
+            "Nightmare Fuel": 2,
+            "Red Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Straw Roll",
+        "url": "https://dontstarve.wiki.gg/wiki/Straw_Roll/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/Straw_Roll.png/40px-Straw_Roll.png",
+        "crafting": {
+            "Cut Grass": 9
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fur Roll",
+        "url": "https://dontstarve.wiki.gg/wiki/Fur_Roll/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/26/Fur_Roll.png/40px-Fur_Roll.png",
+        "crafting": {
+            "Cut Grass": 9,
+            "Bunny Puff": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tent",
+        "url": "https://dontstarve.wiki.gg/wiki/Tent/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1d/Tent.png/40px-Tent.png",
+        "crafting": {
+            "Silk": 3,
+            "Twigs": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Siesta Lean-to",
+        "url": "https://dontstarve.wiki.gg/wiki/Siesta_Lean-to",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/06/Siesta_Lean-to.png/40px-Siesta_Lean-to.png",
+        "crafting": {
+            "Silk": 1,
+            "Log": 8,
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Meat Effigy",
+        "url": "https://dontstarve.wiki.gg/wiki/Meat_Effigy",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2e/Meat_Effigy.png/40px-Meat_Effigy.png",
+        "crafting": {
+            "Log": 8,
+            "Cooked Meat": 2,
+            "Beard Hair": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "One-man Band",
+        "url": "https://dontstarve.wiki.gg/wiki/One-man_Band",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/One-man_Band.png/40px-One-man_Band.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Nightmare Fuel": 4,
+            "Pig Skin": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dark Sword",
+        "url": "https://dontstarve.wiki.gg/wiki/Dark_Sword",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2e/Dark_Sword.png/40px-Dark_Sword.png",
+        "crafting": {
+            "Nightmare Fuel": 5,
+            "Living Log": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Chilled Amulet",
+        "url": "https://dontstarve.wiki.gg/wiki/Chilled_Amulet/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/92/Chilled_Amulet.png/40px-Chilled_Amulet.png",
+        "crafting": {
+            "Gold Nugget": 3,
+            "Blue Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nightmare Amulet",
+        "url": "https://dontstarve.wiki.gg/wiki/Nightmare_Amulet/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fb/Nightmare_Amulet.png/40px-Nightmare_Amulet.png",
+        "crafting": {
+            "Gold Nugget": 6,
+            "Nightmare Fuel": 4,
+            "Purple Gem": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ice Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Ice_Staff",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3c/Ice_Staff.png/40px-Ice_Staff.png",
+        "crafting": {
+            "Twigs": 2,
+            "Cut Grass": 3,
+            "Flint": 1,
+            "Blue Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Telelocator Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Telelocator_Staff/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/ba/Telelocator_Staff.png/40px-Telelocator_Staff.png",
+        "crafting": {
+            "Nightmare Fuel": 4,
+            "Living Log": 2,
+            "Purple Gem": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Telelocator Focus",
+        "url": "https://dontstarve.wiki.gg/wiki/Telelocator_Focus",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e1/Telelocator_Focus.png/40px-Telelocator_Focus.png",
+        "crafting": {
+            "Nightmare Fuel": 2,
+            "Living Log": 2,
+            "Gold Nugget": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Moon Dial",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Dial",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6c/Moon_Dial.png/40px-Moon_Dial.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Ice": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "The Lazy Deserter",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Lazy_Deserter",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b2/The_Lazy_Deserter.png/40px-The_Lazy_Deserter.png",
+        "crafting": {
+            "Rocks": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Bright Boxer",
+        "url": "https://dontstarve.wiki.gg/wiki/Bright_Boxer",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/89/Bright_Boxer.png/40px-Bright_Boxer.png",
+        "crafting": {
+            "Cut Grass": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Shadow Boxer",
+        "url": "https://dontstarve.wiki.gg/wiki/Shadow_Boxer",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/74/Shadow_Boxer.png/40px-Shadow_Boxer.png",
+        "crafting": {
+            "Cut Grass": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Festive Tree Planter",
+        "url": "https://dontstarve.wiki.gg/wiki/Festive_Tree_Planter",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4e/Festive_Tree_Planter.png/40px-Festive_Tree_Planter.png",
+        "crafting": {
+            "Manure": 2,
+            "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sign",
+        "url": "https://dontstarve.wiki.gg/wiki/Sign/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5d/Sign.png/40px-Sign.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Directional Sign",
+        "url": "https://dontstarve.wiki.gg/wiki/Directional_Sign",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e7/Directional_Sign.png/40px-Directional_Sign.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Mini Sign",
+        "url": "https://dontstarve.wiki.gg/wiki/Mini_Sign/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Mini_Sign.png/40px-Mini_Sign.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Potted Fern",
+        "url": "https://dontstarve.wiki.gg/wiki/Potted_Fern",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/Potted_Fern.png/40px-Potted_Fern.png",
+        "crafting": {
+            "Foliage": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Potted Succulent",
+        "url": "https://dontstarve.wiki.gg/wiki/Potted_Succulent",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9a/Potted_Succulent.png/40px-Potted_Succulent.png",
+        "crafting": {
+            "Succulent": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "End Table",
+        "url": "https://dontstarve.wiki.gg/wiki/End_Table",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/44/End_Table.png/40px-End_Table.png",
+        "crafting": {
+            "Marble": 1,
+            "Log": 8,
+            "Beefalo Wool": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Wardrobe",
+        "url": "https://dontstarve.wiki.gg/wiki/Wardrobe",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/15/Wardrobe.png/40px-Wardrobe.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Grass": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Beefalo Grooming Station",
+        "url": "https://dontstarve.wiki.gg/wiki/Beefalo_Grooming_Station",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1f/Beefalo_Grooming_Station.png/40px-Beefalo_Grooming_Station.png",
+        "crafting": {
+            "Beefalo Wool": 1,
+            "Log": 8
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Fish Scale-O-Matic",
+        "url": "https://dontstarve.wiki.gg/wiki/Fish_Scale-O-Matic",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0b/Fish_Scale-O-Matic.png/40px-Fish_Scale-O-Matic.png",
+        "crafting": {
+            "Ice": 2,
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Produce Scale",
+        "url": "https://dontstarve.wiki.gg/wiki/Produce_Scale",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/63/Produce_Scale.png/40px-Produce_Scale.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Grass": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Wood Gate",
+        "url": "https://dontstarve.wiki.gg/wiki/Wood_Gate/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/37/Wood_Gate.png/40px-Wood_Gate.png",
+        "hammerable": false
+    },
+    {
+        "title": "Wood Fence",
+        "url": "https://dontstarve.wiki.gg/wiki/Wood_Fence/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1e/Wood_Fence.png/40px-Wood_Fence.png",
+        "hammerable": false
+    },
+    {
+        "title": "Hay Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Hay_Wall/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/57/Hay_Wall.png/40px-Hay_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Wood Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Wood_Wall/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f5/Wood_Wall.png/40px-Wood_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Stone Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Wall/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1e/Stone_Wall.png/40px-Stone_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Scrap Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Scrap_Wall",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/84/Scrap_Wall.png/40px-Scrap_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Moon Rock Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Rock_Wall",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e1/Moon_Rock_Wall.png/40px-Moon_Rock_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Dreadstone Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone_Wall",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/ca/Dreadstone_Wall.png/40px-Dreadstone_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Moon Quay Pirate Banner",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Quay_Pirate_Banner",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7d/Moon_Quay_Pirate_Banner.png/40px-Moon_Quay_Pirate_Banner.png",
+        "crafting": {
+            "Log": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Dock Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Dock_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/38/Dock_Kit.png/40px-Dock_Kit.png",
+        "crafting": {
+            "Log": 16,
+            "Rocks": 3,
+            "Stinger": 2,
+            "Palmcone Scale": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dock Piling",
+        "url": "https://dontstarve.wiki.gg/wiki/Dock_Piling",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ad/Dock_Piling.png/40px-Dock_Piling.png",
+        "hammerable": false
+    },
+    {
+        "title": "Mannequin",
+        "url": "https://dontstarve.wiki.gg/wiki/Mannequin",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9a/Mannequin.png/40px-Mannequin.png",
+        "crafting": {
+            "Silk": 1,
+            "Log": 4,
+            "Cut Grass": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Cobblestones",
+        "url": "https://dontstarve.wiki.gg/wiki/Cobblestones/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Cobblestones.png/40px-Cobblestones.png",
+        "crafting": {
+            "Rocks": 3,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brick Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Brick_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bf/Brick_Flooring.png/40px-Brick_Flooring.png",
+        "crafting": {
+            "Rocks": 3,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Wooden Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Wooden_Flooring/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/07/Wooden_Flooring.png/40px-Wooden_Flooring.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Gold Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Gold_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Gold_Flooring.png/40px-Gold_Flooring.png",
+        "crafting": {
+            "Rocks": 1,
+            "Gold Nugget": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Checkerboard Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Checkerboard_Flooring/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/98/Checkerboard_Flooring.png/40px-Checkerboard_Flooring.png",
+        "crafting": {
+            "Marble": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Carpeted Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Carpeted_Flooring/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Carpeted_Flooring.png/40px-Carpeted_Flooring.png",
+        "crafting": {
+            "Log": 4,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lush Carpet",
+        "url": "https://dontstarve.wiki.gg/wiki/Lush_Carpet",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4a/Lush_Carpet.png/40px-Lush_Carpet.png",
+        "crafting": {
+            "Log": 4,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Red Mosaic Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Red_Mosaic_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c1/Red_Mosaic_Flooring.png/40px-Red_Mosaic_Flooring.png"
+    },
+    {
+        "title": "Blue Mosaic Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Blue_Mosaic_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Blue_Mosaic_Flooring.png/40px-Blue_Mosaic_Flooring.png"
+    },
+    {
+        "title": "Grey Mosaic Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Grey_Mosaic_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5e/Grey_Mosaic_Flooring.png/40px-Grey_Mosaic_Flooring.png"
+    },
+    {
+        "title": "Scaled Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Scaled_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bc/Scaled_Flooring.png/40px-Scaled_Flooring.png",
+        "crafting": {
+            "Scales": 1,
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ancient Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Ancient_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/62/Ancient_Flooring.png/40px-Ancient_Flooring.png",
+        "crafting": {
+            "Rocks": 2,
+            "Nightmare Fuel": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Imitation Ancient Flooring",
+        "url": "https://dontstarve.wiki.gg/wiki/Imitation_Ancient_Flooring",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/86/Imitation_Ancient_Flooring.png/40px-Imitation_Ancient_Flooring.png",
+        "crafting": {
+            "Rocks": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ancient Tilework",
+        "url": "https://dontstarve.wiki.gg/wiki/Ancient_Tilework",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/29/Ancient_Tilework.png/40px-Ancient_Tilework.png",
+        "crafting": {
+            "Rocks": 2,
+            "Nightmare Fuel": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Imitation Ancient Tilework",
+        "url": "https://dontstarve.wiki.gg/wiki/Imitation_Ancient_Tilework",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f6/Imitation_Ancient_Tilework.png/40px-Imitation_Ancient_Tilework.png",
+        "crafting": {
+            "Rocks": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Imitation Ancient Brickwork",
+        "url": "https://dontstarve.wiki.gg/wiki/Imitation_Ancient_Brickwork",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d7/Imitation_Ancient_Brickwork.png/40px-Imitation_Ancient_Brickwork.png",
+        "crafting": {
+            "Rocks": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ancient Brickwork",
+        "url": "https://dontstarve.wiki.gg/wiki/Ancient_Brickwork",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/df/Ancient_Brickwork.png/40px-Ancient_Brickwork.png",
+        "crafting": {
+            "Rocks": 2,
+            "Nightmare Fuel": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ancient Stonework",
+        "url": "https://dontstarve.wiki.gg/wiki/Ancient_Stonework",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/77/Ancient_Stonework.png/40px-Ancient_Stonework.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Thulecite Fragments": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rocky Beach Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Rocky_Beach_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0f/Rocky_Beach_Turf.png/40px-Rocky_Beach_Turf.png",
+        "crafting": {
+            "Rocks": 1,
+            "Driftwood Piece": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shell Beach Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Shell_Beach_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/82/Shell_Beach_Turf.png/40px-Shell_Beach_Turf.png",
+        "crafting": {
+            "Broken Shell (DST)": 1,
+            "Rocks": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Moon Quay Beach Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Quay_Beach_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c5/Moon_Quay_Beach_Turf.png/40px-Moon_Quay_Beach_Turf.png",
+        "crafting": {
+            "Rocks": 1,
+            "Marble": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Forest Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Forest_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/84/Forest_Turf.png/40px-Forest_Turf.png",
+        "crafting": {
+            "Twigs": 1,
+            "Pine Cone": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Grass Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Grass_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d9/Grass_Turf.png/40px-Grass_Turf.png",
+        "crafting": {
+            "Cut Grass": 1,
+            "Petals": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Savanna Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Savanna_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/27/Savanna_Turf.png/40px-Savanna_Turf.png",
+        "crafting": {
+            "Cut Grass": 1,
+            "Manure": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Deciduous Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Deciduous_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f0/Deciduous_Turf.png/40px-Deciduous_Turf.png",
+        "crafting": {
+            "Twigs": 1,
+            "Birchnut": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sandy Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Sandy_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e5/Sandy_Turf.png/40px-Sandy_Turf.png",
+        "hammerable": false
+    },
+    {
+        "title": "Rocky Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Rocky_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fc/Rocky_Turf.png/40px-Rocky_Turf.png",
+        "crafting": {
+            "Rocks": 1,
+            "Flint": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Guano Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Guano_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/68/Guano_Turf.png/40px-Guano_Turf.png",
+        "hammerable": false
+    },
+    {
+        "title": "Cave Rock Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Cave_Rock_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/86/Cave_Rock_Turf.png/40px-Cave_Rock_Turf.png",
+        "crafting": {
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Slimy Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Slimy_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0e/Slimy_Turf.png/40px-Slimy_Turf.png",
+        "crafting": {
+            "Cut Grass": 1,
+            "Foliage": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Marsh Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Marsh_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/41/Marsh_Turf.png/40px-Marsh_Turf.png",
+        "hammerable": false
+    },
+    {
+        "title": "Mud Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Mud_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/ba/Mud_Turf.png/40px-Mud_Turf.png",
+        "crafting": {
+            "Rocks": 1,
+            "Ice": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fungal Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Fungal_Turf/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6b/Fungal_Turf_Blue.png/40px-Fungal_Turf_Blue.png",
+        "crafting": {
+            "Lichen": 1,
+            "Blue Spore": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beard Hair Rug",
+        "url": "https://dontstarve.wiki.gg/wiki/Beard_Hair_Rug/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/96/Beard_Hair_Rug.png/40px-Beard_Hair_Rug.png",
+        "crafting": {
+            "Beard Hair": 2,
+            "Cut Grass": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Relic",
+        "url": "https://dontstarve.wiki.gg/wiki/Relic/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a1/Relic_Plate.png/40px-Relic_Plate.png",
+        "hammerable": false
+    },
+    {
+        "title": "Anchor Figure Sketch",
+        "url": "https://dontstarve.wiki.gg/wiki/Anchor_Figure_Sketch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f7/Anchor_Figure_Sketch.png/40px-Anchor_Figure_Sketch.png"
+    },
+    {
+        "title": "Gramophone",
+        "url": "https://dontstarve.wiki.gg/wiki/Gramophone/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d6/Gramophone_DST.png/40px-Gramophone_DST.png",
+        "crafting": {
+            "Gold Nugget": 3,
+            "Rocks": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Record",
+        "url": "https://dontstarve.wiki.gg/wiki/Record",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7e/Record_Classic.png/40px-Record_Classic.png",
+        "crafting": {
+            "Batilisk Wing": 1,
+            "Charcoal": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Wooden Chair",
+        "url": "https://dontstarve.wiki.gg/wiki/Wooden_Chair",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/87/Wooden_Chair.png/40px-Wooden_Chair.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Wooden Chair",
+        "url": "https://dontstarve.wiki.gg/wiki/Wooden_Stool",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0a/Wooden_Stool.png/40px-Wooden_Stool.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Square/Round Wooden Table",
+        "url": "https://dontstarve.wiki.gg/wiki/Round_Wooden_Table",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6e/Round_Wooden_Table.png/40px-Round_Wooden_Table.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Square/Round Wooden Table",
+        "url": "https://dontstarve.wiki.gg/wiki/Square_Wooden_Table",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/98/Square_Wooden_Table.png/40px-Square_Wooden_Table.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Art?",
+        "url": "https://dontstarve.wiki.gg/wiki/Art%3F",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/17/Art%3F.png/40px-Art%3F.png",
+        "crafting": {
+            "Twigs": 1,
+            "Rocks": 1,
+            "Flint": 1,
+            "Gold Nugget": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Table Lamp",
+        "url": "https://dontstarve.wiki.gg/wiki/Table_Lamp",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a3/Table_Lamp.png/40px-Table_Lamp.png",
+        "crafting": {
+            "Twigs": 2,
+            "Cat Tail": 2,
+            "Light Bulb": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Table Vase",
+        "url": "https://dontstarve.wiki.gg/wiki/Table_Vase",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/44/Table_Vase.png/40px-Table_Vase.png",
+        "crafting": {
+            "Log": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Empty Frame",
+        "url": "https://dontstarve.wiki.gg/wiki/Empty_Frame",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Empty_Frame.png/40px-Empty_Frame.png",
+        "crafting": {
+            "Log": 2,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pleasant Portrait",
+        "url": "https://dontstarve.wiki.gg/wiki/Pleasant_Portrait",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cf/Pleasant_Portrait.png/40px-Pleasant_Portrait.png",
+        "crafting": {
+            "Log": 2,
+            "Twigs": 3,
+            "Gold Nugget": 1,
+            "Charcoal": 1,
+            "Jet Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Winter's Feast Table",
+        "url": "https://dontstarve.wiki.gg/wiki/Winter%27s_Feast_Table",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8e/Winter%27s_Feast_Table.png/40px-Winter%27s_Feast_Table.png",
+        "crafting": {},
+        "hammerable": true
+    },
+    {
+        "title": "Crock Pot",
+        "url": "https://dontstarve.wiki.gg/wiki/Crock_Pot/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d2/Crock_Pot.png/40px-Crock_Pot.png",
+        "crafting": {
+            "Rocks": 3,
+            "Charcoal": 3,
+            "Twigs": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Drying Rack",
+        "url": "https://dontstarve.wiki.gg/wiki/Drying_Rack/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/01/Drying_Rack.png/40px-Drying_Rack.png",
+        "crafting": {
+            "Twigs": 1,
+            "Charcoal": 1,
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Ocean Trawler Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Ocean_Trawler_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a3/Ocean_Trawler_Kit.png/40px-Ocean_Trawler_Kit.png"
+    },
+    {
+        "title": "Chest",
+        "url": "https://dontstarve.wiki.gg/wiki/Chest/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b3/Chest.png/40px-Chest.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Scaled Chest",
+        "url": "https://dontstarve.wiki.gg/wiki/Scaled_Chest",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bb/Scaled_Chest.png/40px-Scaled_Chest.png",
+        "crafting": {
+            "Log": 8,
+            "Gold Nugget": 5
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Ice Box",
+        "url": "https://dontstarve.wiki.gg/wiki/Ice_Box",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/90/Ice_Box.png/40px-Ice_Box.png",
+        "hammerable": false
+    },
+    {
+        "title": "Salt Box",
+        "url": "https://dontstarve.wiki.gg/wiki/Salt_Box",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/31/Salt_Box.png/40px-Salt_Box.png",
+        "crafting": {
+            "Salt Crystals": 5
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Thermal Measurer",
+        "url": "https://dontstarve.wiki.gg/wiki/Thermal_Measurer/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/41/Thermal_Measurer.png/40px-Thermal_Measurer.png",
+        "crafting": {
+            "Log": 4,
+            "Gold Nugget": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Rainometer",
+        "url": "https://dontstarve.wiki.gg/wiki/Rainometer/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2f/Rainometer.png/40px-Rainometer.png",
+        "crafting": {
+            "Log": 4,
+            "Gold Nugget": 1,
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Lightning Rod",
+        "url": "https://dontstarve.wiki.gg/wiki/Lightning_Rod/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/62/Lightning_Rod.png/40px-Lightning_Rod.png",
+        "crafting": {
+            "Gold Nugget": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Ice Flingomatic",
+        "url": "https://dontstarve.wiki.gg/wiki/Ice_Flingomatic",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f0/Ice_Flingomatic.png/40px-Ice_Flingomatic.png",
+        "crafting": {
+            "Gears": 1,
+            "Ice": 7,
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Punching Bag",
+        "url": "https://dontstarve.wiki.gg/wiki/Punching_Bag",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c5/Punching_Bag.png/40px-Punching_Bag.png",
+        "crafting": {
+            "Cut Grass": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Pig House",
+        "url": "https://dontstarve.wiki.gg/wiki/Pig_House",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ae/Pig_House.png/40px-Pig_House.png",
+        "crafting": {
+            "Log": 8,
+            "Rocks": 3,
+            "Pig Skin": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Rabbit Hutch",
+        "url": "https://dontstarve.wiki.gg/wiki/Rabbit_Hutch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f7/Rabbit_Hutch.png/40px-Rabbit_Hutch.png",
+        "crafting": {
+            "Log": 8,
+            "Carrot": 5,
+            "Bunny Puff": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Salt Lick",
+        "url": "https://dontstarve.wiki.gg/wiki/Salt_Lick/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/38/Salt_Lick.png/40px-Salt_Lick.png",
+        "crafting": {
+            "Log": 4,
+            "Nitre": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Gourmet Salt Lick",
+        "url": "https://dontstarve.wiki.gg/wiki/Gourmet_Salt_Lick",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/72/Gourmet_Salt_Lick.png/40px-Gourmet_Salt_Lick.png",
+        "crafting": {
+            "Log": 4,
+            "Salt Crystals": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Incomplete Experiment",
+        "url": "https://dontstarve.wiki.gg/wiki/Incomplete_Experiment",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dc/Incomplete_Experiment.png/40px-Incomplete_Experiment.png"
+    },
+    {
+        "title": "Friendly Scarecrow",
+        "url": "https://dontstarve.wiki.gg/wiki/Friendly_Scarecrow",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/82/Friendly_Scarecrow.png/40px-Friendly_Scarecrow.png",
+        "crafting": {
+            "Cut Grass": 1,
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Wood Gate",
+        "url": "https://dontstarve.wiki.gg/wiki/Wood_Gate",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/37/Wood_Gate.png/40px-Wood_Gate.png",
+        "hammerable": false
+    },
+    {
+        "title": "Wood Fence",
+        "url": "https://dontstarve.wiki.gg/wiki/Wood_Fence",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1e/Wood_Fence.png/40px-Wood_Fence.png",
+        "hammerable": false
+    },
+    {
+        "title": "Wood Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Wood_Wall",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f5/Wood_Wall.png/40px-Wood_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Stone Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Wall",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1e/Stone_Wall.png/40px-Stone_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Mini Sign",
+        "url": "https://dontstarve.wiki.gg/wiki/Mini_Sign",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Mini_Sign.png/40px-Mini_Sign.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Reinforced Pillar",
+        "url": "https://dontstarve.wiki.gg/wiki/Pillar_Scaffold",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/45/Pillar_Scaffold.png/40px-Pillar_Scaffold.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Dreadstone Pillar",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone_Pillar",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3d/Dreadstone_Pillar_Scaffold.png/40px-Dreadstone_Pillar_Scaffold.png",
+        "crafting": {
+            "Dreadstone": 2,
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Bundling Wrap",
+        "url": "https://dontstarve.wiki.gg/wiki/Bundling_Wrap/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/60/Bundling_Wrap.png/40px-Bundling_Wrap.png",
+        "crafting": {
+            "Honeycomb": 1,
+            "Cut Reeds": 4,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Gift Wrap",
+        "url": "https://dontstarve.wiki.gg/wiki/Gift_Wrap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5a/Gift_Wrap.png/40px-Gift_Wrap.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Petals": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Candy Bag",
+        "url": "https://dontstarve.wiki.gg/wiki/Candy_Bag",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Candy_Bag.png/40px-Candy_Bag.png",
+        "crafting": {
+            "Cut Grass": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Elastispacer",
+        "url": "https://dontstarve.wiki.gg/wiki/Elastispacer",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Elastispacer.png/40px-Elastispacer.png",
+        "crafting": {
+            "Scrap": 4,
+            "Pure Brilliance": 2,
+            "Enlightened Shard": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tin Fishin' Bin",
+        "url": "https://dontstarve.wiki.gg/wiki/Tin_Fishin%27_Bin",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/58/Tin_Fishin%27_Bin.png/40px-Tin_Fishin%27_Bin.png",
+        "crafting": {
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Cookbook",
+        "url": "https://dontstarve.wiki.gg/wiki/Cookbook",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Cookbook.png/40px-Cookbook.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Carrot": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Garden Digamajig",
+        "url": "https://dontstarve.wiki.gg/wiki/Garden_Digamajig",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1f/Garden_Digamajig.png/40px-Garden_Digamajig.png",
+        "crafting": {
+            "Log": 12,
+            "Cut Grass": 6,
+            "Flint": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bucket-o-poop",
+        "url": "https://dontstarve.wiki.gg/wiki/Bucket-o-poop/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/87/Bucket-o-poop.png/40px-Bucket-o-poop.png",
+        "crafting": {
+            "Manure": 3,
+            "Bone Shards": 2,
+            "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Growth Formula Starter",
+        "url": "https://dontstarve.wiki.gg/wiki/Growth_Formula_Starter",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/87/Growth_Formula_Starter.png/40px-Growth_Formula_Starter.png",
+        "crafting": {
+            "Empty Bottle (DST)": 1,
+            "Kelp Fronds": 1,
+            "Ash": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Tree Jam",
+        "url": "https://dontstarve.wiki.gg/wiki/Tree_Jam",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/ba/Tree_Jam.png/40px-Tree_Jam.png",
+        "crafting": {
+            "Fig": 2,
+            "Glommer's Goop": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Composting Bin",
+        "url": "https://dontstarve.wiki.gg/wiki/Composting_Bin",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4a/Composting_Bin.png/40px-Composting_Bin.png",
+        "crafting": {
+            "Log": 4
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Gardeneer Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Gardeneer_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a0/Gardeneer_Hat.png/40px-Gardeneer_Hat.png",
+        "crafting": {
+            "Manure": 3,
+            "Bone Shards": 2,
+            "Log": 4,
+            "Seeds": 3,
+            "Gold Nugget": 2,
+            "Rocks": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Mushroom Planter",
+        "url": "https://dontstarve.wiki.gg/wiki/Mushroom_Planter",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b7/Mushroom_Planter.png/40px-Mushroom_Planter.png",
+        "crafting": {
+            "Rot": 4,
+            "Manure": 2,
+            "Living Log": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Bee Box",
+        "url": "https://dontstarve.wiki.gg/wiki/Bee_Box/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Bee_Box.png/40px-Bee_Box.png",
+        "crafting": {
+            "Log": 4,
+            "Bee": 2
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Birdcage",
+        "url": "https://dontstarve.wiki.gg/wiki/Birdcage/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/80/Birdcage.png/40px-Birdcage.png",
+        "crafting": {
+            "Cut Reeds": 4,
+            "Gold Nugget": 3,
+            "Seeds": 1
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Fishing Rod",
+        "url": "https://dontstarve.wiki.gg/wiki/Fishing_Rod",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c7/Fishing_Rod.png/40px-Fishing_Rod.png",
+        "crafting": {
+            "Twigs": 2,
+            "Silk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Wooden Ball Bobber",
+        "url": "https://dontstarve.wiki.gg/wiki/Wooden_Ball_Bobber",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8e/Wooden_Ball_Bobber.png/40px-Wooden_Ball_Bobber.png",
+        "crafting": {
+            "Log": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Hardened Slip Bobber",
+        "url": "https://dontstarve.wiki.gg/wiki/Hardened_Slip_Bobber",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/Hardened_Slip_Bobber.png/40px-Hardened_Slip_Bobber.png",
+        "crafting": {
+            "Driftwood Piece": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Jet Quill Float",
+        "url": "https://dontstarve.wiki.gg/wiki/Jet_Quill_Float",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/51/Jet_Quill_Float.png/40px-Jet_Quill_Float.png",
+        "crafting": {
+            "Jet Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Crimson Quill Float",
+        "url": "https://dontstarve.wiki.gg/wiki/Crimson_Quill_Float",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/ba/Crimson_Quill_Float.png/40px-Crimson_Quill_Float.png",
+        "crafting": {
+            "Crimson Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Azure Quill Float",
+        "url": "https://dontstarve.wiki.gg/wiki/Azure_Quill_Float",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a3/Azure_Quill_Float.png/40px-Azure_Quill_Float.png",
+        "crafting": {
+            "Azure Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Saffron Quill Float",
+        "url": "https://dontstarve.wiki.gg/wiki/Saffron_Quill_Float",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1d/Saffron_Quill_Float.png/40px-Saffron_Quill_Float.png",
+        "crafting": {
+            "Saffron Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Down Quill Float",
+        "url": "https://dontstarve.wiki.gg/wiki/Down_Quill_Float",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Down_Quill_Float.png/40px-Down_Quill_Float.png",
+        "crafting": {
+            "Down Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Malbatross Quill Float",
+        "url": "https://dontstarve.wiki.gg/wiki/Malbatross_Quill_Float",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9a/Malbatross_Quill_Float.png/40px-Malbatross_Quill_Float.png",
+        "crafting": {
+            "Malbatross Feather": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sunrise Spoon",
+        "url": "https://dontstarve.wiki.gg/wiki/Sunrise_Spoon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d8/Sunrise_Spoon.png/40px-Sunrise_Spoon.png",
+        "crafting": {
+            "Flint": 2,
+            "Red Cap": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dusky Spoon",
+        "url": "https://dontstarve.wiki.gg/wiki/Dusky_Spoon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/20/Dusky_Spoon.png/40px-Dusky_Spoon.png",
+        "crafting": {
+            "Flint": 2,
+            "Green Cap": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nightflyer Spoon",
+        "url": "https://dontstarve.wiki.gg/wiki/Nightflyer_Spoon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/18/Nightflyer_Spoon.png/40px-Nightflyer_Spoon.png",
+        "crafting": {
+            "Flint": 2,
+            "Blue Cap": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Sunrise Spinnerbait",
+        "url": "https://dontstarve.wiki.gg/wiki/Sunrise_Spinnerbait",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5b/Sunrise_Spinnerbait.png/40px-Sunrise_Spinnerbait.png",
+        "crafting": {
+            "Flint": 1,
+            "Red Cap": 1,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dusky Spinnerbait",
+        "url": "https://dontstarve.wiki.gg/wiki/Dusky_Spinnerbait",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/08/Dusky_Spinnerbait.png/40px-Dusky_Spinnerbait.png",
+        "crafting": {
+            "Flint": 1,
+            "Green Cap": 1,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nightflyer Spinnerbait",
+        "url": "https://dontstarve.wiki.gg/wiki/Nightflyer_Spinnerbait",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e3/Nightflyer_Spinnerbait.png/40px-Nightflyer_Spinnerbait.png",
+        "crafting": {
+            "Flint": 1,
+            "Blue Cap": 1,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rainy Day Lure",
+        "url": "https://dontstarve.wiki.gg/wiki/Rainy_Day_Lure",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ee/Rainy_Day_Lure.png/40px-Rainy_Day_Lure.png",
+        "crafting": {
+            "Cookie Cutter Shell": 1,
+            "Mosquito Sack": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Snow Day Lure",
+        "url": "https://dontstarve.wiki.gg/wiki/Snow_Day_Lure",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/ca/Snow_Day_Lure.png/40px-Snow_Day_Lure.png",
+        "crafting": {
+            "Cookie Cutter Shell": 1,
+            "Ice": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Stupefying Lure",
+        "url": "https://dontstarve.wiki.gg/wiki/Stupefying_Lure",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7f/Stupefying_Lure.png/40px-Stupefying_Lure.png",
+        "crafting": {
+            "Cookie Cutter Shell": 1,
+            "Stinger": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Heavy Weighted Lure",
+        "url": "https://dontstarve.wiki.gg/wiki/Heavy_Weighted_Lure",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/48/Heavy_Weighted_Lure.png/40px-Heavy_Weighted_Lure.png",
+        "crafting": {
+            "Cookie Cutter Shell": 1,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Grass Raft Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Grass_Raft_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Grass_Raft_Kit.png/40px-Grass_Raft_Kit.png",
+        "crafting": {
+            "Cut Grass": 8,
+            "Twigs": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Boat Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Boat_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/45/Boat_Kit.png/40px-Boat_Kit.png",
+        "crafting": {
+            "Log": 16
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Kelp Patch",
+        "url": "https://dontstarve.wiki.gg/wiki/Kelp_Patch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/Kelp_Patch.png/40px-Kelp_Patch.png",
+        "crafting": {
+            "Kelp Fronds": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Boat Patch",
+        "url": "https://dontstarve.wiki.gg/wiki/Boat_Patch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Boat_Patch.png/40px-Boat_Patch.png",
+        "crafting": {
+            "Log": 2,
+            "Stinger": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Oar",
+        "url": "https://dontstarve.wiki.gg/wiki/Oar",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b6/Oar.png/40px-Oar.png",
+        "crafting": {
+            "Log": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Driftwood Oar",
+        "url": "https://dontstarve.wiki.gg/wiki/Driftwood_Oar",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ac/Driftwood_Oar.png/40px-Driftwood_Oar.png",
+        "crafting": {
+            "Driftwood Piece": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Anchor Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Anchor_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/54/Anchor_Kit.png/40px-Anchor_Kit.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Grass": 9,
+            "Rocks": 9
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Steering Wheel Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Steering_Wheel_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2f/Steering_Wheel_Kit.png/40px-Steering_Wheel_Kit.png",
+        "crafting": {
+            "Log": 8,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rudder Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Rudder_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f5/Rudder_Kit.png/40px-Rudder_Kit.png"
+    },
+    {
+        "title": "Mast",
+        "url": "https://dontstarve.wiki.gg/wiki/Mast",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9d/Mast_Kit.png/40px-Mast_Kit.png",
+        "hammerable": false
+    },
+    {
+        "title": "Winged Sail",
+        "url": "https://dontstarve.wiki.gg/wiki/Winged_Sail",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/Winged_Sail_Kit.png/40px-Winged_Sail_Kit.png",
+        "hammerable": false
+    },
+    {
+        "title": "Kelp Bumper Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Kelp_Bumper_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d7/Kelp_Bumper_Kit.png/40px-Kelp_Bumper_Kit.png",
+        "crafting": {
+            "Kelp Fronds": 3,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shell Bumper Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Shell_Bumper_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3f/Shell_Bumper_Kit.png/40px-Shell_Bumper_Kit.png",
+        "crafting": {
+            "Broken Shell (DST)": 3,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Fanged Bumper Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Fanged_Bumper_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/36/Fanged_Bumper_Kit.png/40px-Fanged_Bumper_Kit.png",
+        "crafting": {
+            "Lucky Gold Nugget": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Deck Illuminator",
+        "url": "https://dontstarve.wiki.gg/wiki/Deck_Illuminator",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ac/Deck_Illuminator.png/40px-Deck_Illuminator.png",
+        "hammerable": false
+    },
+    {
+        "title": "Lightning Conductor",
+        "url": "https://dontstarve.wiki.gg/wiki/Lightning_Conductor",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c0/Lightning_Conductor.png/40px-Lightning_Conductor.png",
+        "crafting": {
+            "Gold Nugget": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Dragonfly Light Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Dragonfly_Light_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/18/Dragonfly_Light_Kit.png/40px-Dragonfly_Light_Kit.png",
+        "crafting": {
+            "Lucky Gold Nugget": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pinchin' Winch",
+        "url": "https://dontstarve.wiki.gg/wiki/Pinchin%27_Winch",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/32/Pinchin%27_Winch.png/40px-Pinchin%27_Winch.png",
+        "crafting": {
+            "Log": 4,
+            "Cut Grass": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Fire Pump",
+        "url": "https://dontstarve.wiki.gg/wiki/Fire_Pump",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b7/Fire_Pump.png/40px-Fire_Pump.png",
+        "hammerable": false
+    },
+    {
+        "title": "Nautopilot Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Nautopilot_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/61/Nautopilot_Kit.png/40px-Nautopilot_Kit.png",
+        "crafting": {
+            "Log": 8,
+            "Rocks": 9,
+            "Gold Nugget": 2,
+            "Frazzled Wires": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nautopilot Beacon",
+        "url": "https://dontstarve.wiki.gg/wiki/Nautopilot_Beacon",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/01/Nautopilot_Beacon.png/40px-Nautopilot_Beacon.png",
+        "crafting": {
+            "Rocks": 3
+        },
+        "hammerable": true
+    },
+    {
+        "title": "Dock Piling Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Dock_Piling_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/44/Dock_Piling_Kit.png/40px-Dock_Piling_Kit.png"
+    },
+    {
+        "title": "Brush",
+        "url": "https://dontstarve.wiki.gg/wiki/Brush",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bc/Brush.png/40px-Brush.png",
+        "crafting": {
+            "Steel Wool": 1,
+            "Walrus Tusk": 1,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Saddle",
+        "url": "https://dontstarve.wiki.gg/wiki/Saddle/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/ca/Saddle.png/40px-Saddle.png",
+        "crafting": {
+            "Beefalo Wool": 4,
+            "Pig Skin": 4,
+            "Gold Nugget": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Saddle",
+        "url": "https://dontstarve.wiki.gg/wiki/Saddle/DST#War_Saddle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b0/War_Saddle.png/40px-War_Saddle.png",
+        "crafting": {
+            "Beefalo Wool": 4,
+            "Pig Skin": 4,
+            "Gold Nugget": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Saddle",
+        "url": "https://dontstarve.wiki.gg/wiki/Saddle/DST#Glossamer_Saddle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5e/Glossamer_Saddle.png/40px-Glossamer_Saddle.png",
+        "crafting": {
+            "Beefalo Wool": 4,
+            "Pig Skin": 4,
+            "Gold Nugget": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thermal Stone",
+        "url": "https://dontstarve.wiki.gg/wiki/Thermal_Stone/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/ff/Thermal_Stone.png/40px-Thermal_Stone.png",
+        "crafting": {
+            "Rocks": 10,
+            "Twigs": 2,
+            "Flint": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pretty Parasol",
+        "url": "https://dontstarve.wiki.gg/wiki/Pretty_Parasol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d3/Pretty_Parasol.png/40px-Pretty_Parasol.png",
+        "crafting": {
+            "Twigs": 4,
+            "Cut Grass": 3,
+            "Petals": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Floral Shirt",
+        "url": "https://dontstarve.wiki.gg/wiki/Floral_Shirt",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f7/Floral_Shirt.png/40px-Floral_Shirt.png",
+        "hammerable": false
+    },
+    {
+        "title": "Miner Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Miner_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1f/Miner_Hat.png/40px-Miner_Hat.png",
+        "crafting": {
+            "Cut Grass": 12,
+            "Gold Nugget": 1,
+            "Fireflies": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Rain Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Rain_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e3/Rain_Hat.png/40px-Rain_Hat.png",
+        "crafting": {
+            "Moleworm": 2,
+            "Cut Grass": 12,
+            "Bone Shards": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thulecite",
+        "url": "https://dontstarve.wiki.gg/wiki/Thulecite/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9a/Thulecite.png/40px-Thulecite.png",
+        "crafting": {
+            "Thulecite Fragments": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thulecite Wall",
+        "url": "https://dontstarve.wiki.gg/wiki/Thulecite_Wall/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/03/Thulecite_Wall.png/40px-Thulecite_Wall.png",
+        "hammerable": false
+    },
+    {
+        "title": "Thulecite Medallion",
+        "url": "https://dontstarve.wiki.gg/wiki/Thulecite_Medallion/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/Thulecite_Medallion.png/40px-Thulecite_Medallion.png",
+        "crafting": {
+            "Thulecite Fragments": 12,
+            "Nightmare Fuel": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "The Lazy Forager",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Lazy_Forager/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b2/The_Lazy_Forager.png/40px-The_Lazy_Forager.png",
+        "crafting": {
+            "Thulecite Fragments": 12,
+            "Nightmare Fuel": 3,
+            "Orange Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Magiluminescence",
+        "url": "https://dontstarve.wiki.gg/wiki/Magiluminescence/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f2/Magiluminescence.png/40px-Magiluminescence.png",
+        "crafting": {
+            "Thulecite Fragments": 12,
+            "Nightmare Fuel": 3,
+            "Yellow Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Construction Amulet",
+        "url": "https://dontstarve.wiki.gg/wiki/Construction_Amulet/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/33/Construction_Amulet.png/40px-Construction_Amulet.png",
+        "crafting": {
+            "Thulecite Fragments": 12,
+            "Nightmare Fuel": 3,
+            "Green Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "The Lazy Explorer",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Lazy_Explorer/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/08/The_Lazy_Explorer.png/40px-The_Lazy_Explorer.png",
+        "crafting": {
+            "Nightmare Fuel": 2,
+            "Gold Nugget": 2,
+            "Walrus Tusk": 1,
+            "Twigs": 4,
+            "Orange Gem": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Star Caller's Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Star_Caller%27s_Staff/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/83/Star_Caller%27s_Staff.png/40px-Star_Caller%27s_Staff.png",
+        "crafting": {
+            "Nightmare Fuel": 4,
+            "Living Log": 2,
+            "Yellow Gem": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Deconstruction Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Deconstruction_Staff/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ed/Deconstruction_Staff.png/40px-Deconstruction_Staff.png",
+        "crafting": {
+            "Nightmare Fuel": 4,
+            "Living Log": 2,
+            "Green Gem": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Pick",
+        "url": "https://dontstarve.wiki.gg/wiki/Pick/Axe",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f6/PickSlashAxe.png/40px-PickSlashAxe.png"
+    },
+    {
+        "title": "Premier Gardeneer Hat",
+        "url": "https://dontstarve.wiki.gg/wiki/Premier_Gardeneer_Hat",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9a/Premier_Gardeneer_Hat.png/40px-Premier_Gardeneer_Hat.png",
+        "crafting": {
+            "Manure": 3,
+            "Bone Shards": 2,
+            "Log": 4,
+            "Seeds": 3,
+            "Gold Nugget": 2,
+            "Rocks": 3,
+            "Thulecite Fragments": 4,
+            "Purple Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thulecite Crown",
+        "url": "https://dontstarve.wiki.gg/wiki/Thulecite_Crown/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c5/Thulecite_Crown.png/40px-Thulecite_Crown.png",
+        "crafting": {
+            "Thulecite Fragments": 24,
+            "Nightmare Fuel": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thulecite Suit",
+        "url": "https://dontstarve.wiki.gg/wiki/Thulecite_Suit/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/15/Thulecite_Suit.png/40px-Thulecite_Suit.png",
+        "crafting": {
+            "Thulecite Fragments": 36,
+            "Nightmare Fuel": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Thulecite Club",
+        "url": "https://dontstarve.wiki.gg/wiki/Thulecite_Club/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Thulecite_Club.png/40px-Thulecite_Club.png",
+        "crafting": {
+            "Living Log": 3,
+            "Thulecite Fragments": 24,
+            "Nightmare Fuel": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Houndius Shootius",
+        "url": "https://dontstarve.wiki.gg/wiki/Houndius_Shootius/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Houndius_Shootius.png/40px-Houndius_Shootius.png",
+        "crafting": {
+            "Guardian's Horn": 1,
+            "Deerclops Eyeball": 1,
+            "Thulecite Fragments": 30
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shadowcraft Plinth Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Shadowcraft_Plinth_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0c/Shadowcraft_Plinth_Kit.png/40px-Shadowcraft_Plinth_Kit.png",
+        "crafting": {
+            "Nightmare Fuel": 5,
+            "Dreadstone": 2,
+            "Pure Horror": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Map Scroll",
+        "url": "https://dontstarve.wiki.gg/wiki/Map_Scroll",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/62/Map_Scroll.png/40px-Map_Scroll.png",
+        "crafting": {
+            "Charcoal": 1,
+            "Jet Feather": 1,
+            "Twigs": 1,
+            "Cut Reeds": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Moon Rock Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Rock_Idol",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4c/Moon_Rock_Idol.png/40px-Moon_Rock_Idol.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Purple Gem": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Portal Paraphernalia",
+        "url": "https://dontstarve.wiki.gg/wiki/Portal_Paraphernalia",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c3/Portal_Paraphernalia.png/40px-Portal_Paraphernalia.png",
+        "crafting": {
+            "Log": 4,
+            "Cut Grass": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightsmithy Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightsmithy_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Brightsmithy_Kit.png/40px-Brightsmithy_Kit.png",
+        "crafting": {
+            "Moon Rock": 5,
+            "Moon Shard": 5,
+            "Pure Brilliance": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Lunar Funcap",
+        "url": "https://dontstarve.wiki.gg/wiki/Lunar_Funcap",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Lunar_Funcap.png/40px-Lunar_Funcap.png",
+        "crafting": {
+            "Moon Shroom": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Moon Glass Axe",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Glass_Axe",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1b/Moon_Glass_Axe.png/40px-Moon_Glass_Axe.png",
+        "crafting": {
+            "Twigs": 2,
+            "Moon Shard": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Glass Cutter",
+        "url": "https://dontstarve.wiki.gg/wiki/Glass_Cutter",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/43/Glass_Cutter.png/40px-Glass_Cutter.png",
+        "crafting": {
+            "Log": 4,
+            "Moon Shard": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Moon Crater Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Crater_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1f/Moon_Crater_Turf.png/40px-Moon_Crater_Turf.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Moon Shard": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Mutated Fungal Turf",
+        "url": "https://dontstarve.wiki.gg/wiki/Mutated_Fungal_Turf",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Mutated_Fungal_Turf.png/40px-Mutated_Fungal_Turf.png",
+        "crafting": {
+            "Moon Rock": 1,
+            "Moon Shroom": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Bath Bomb",
+        "url": "https://dontstarve.wiki.gg/wiki/Bath_Bomb",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/29/Bath_Bomb.png/40px-Bath_Bomb.png",
+        "crafting": {
+            "Lune Tree Blossom": 6,
+            "Nitre": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Armor",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Armor",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Brightshade_Armor.png/40px-Brightshade_Armor.png",
+        "crafting": {
+            "Pure Brilliance": 4,
+            "Brightshade Husk": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Helm",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Helm",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4b/Brightshade_Helm.png/40px-Brightshade_Helm.png",
+        "crafting": {
+            "Pure Brilliance": 4,
+            "Brightshade Husk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Bomb",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Bomb",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/72/Brightshade_Bomb.png/40px-Brightshade_Bomb.png",
+        "crafting": {
+            "Pure Brilliance": 4,
+            "Brightshade Husk": 4,
+            "Infused Moon Shard": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Staff",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Staff",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b1/Brightshade_Staff.png/40px-Brightshade_Staff.png",
+        "crafting": {
+            "Pure Brilliance": 3,
+            "Brightshade Husk": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Sword",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Sword",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/39/Brightshade_Sword.png/40px-Brightshade_Sword.png",
+        "crafting": {
+            "Pure Brilliance": 4,
+            "Brightshade Husk": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Smasher",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Smasher",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3b/Brightshade_Smasher.png/40px-Brightshade_Smasher.png",
+        "crafting": {
+            "Pure Brilliance": 1,
+            "Brightshade Husk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Shoevel",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Shoevel",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fb/Brightshade_Shoevel.png/40px-Brightshade_Shoevel.png",
+        "crafting": {
+            "Pure Brilliance": 1,
+            "Brightshade Husk": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Brightshade Repair Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Brightshade_Repair_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/88/Brightshade_Repair_Kit.png/40px-Brightshade_Repair_Kit.png",
+        "crafting": {
+            "Pure Brilliance": 1,
+            "Brightshade Husk": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Polar Bearger Bin",
+        "url": "https://dontstarve.wiki.gg/wiki/Polar_Bearger_Bin",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/04/Polar_Bearger_Bin.png/40px-Polar_Bearger_Bin.png",
+        "crafting": {
+            "Spark Ark": 1,
+            "Thick Fur": 1,
+            "Pure Brilliance": 3,
+            "Moon Rock": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Ice Crystaleyezer Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Ice_Crystaleyezer_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/19/Ice_Crystaleyezer_Kit.png/40px-Ice_Crystaleyezer_Kit.png",
+        "crafting": {
+            "Spark Ark": 1,
+            "Moon Shard": 8,
+            "Pure Brilliance": 5,
+            "Moon Rock": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Howlitzer",
+        "url": "https://dontstarve.wiki.gg/wiki/Howlitzer",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6a/Howlitzer.png/40px-Howlitzer.png",
+        "crafting": {
+            "Spark Ark": 1,
+            "Brightshade Husk": 3,
+            "Pure Brilliance": 3,
+            "Moon Rock": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Void Robe",
+        "url": "https://dontstarve.wiki.gg/wiki/Void_Robe",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/82/Void_Robe.png/40px-Void_Robe.png",
+        "crafting": {
+            "Pure Horror": 4,
+            "Dark Tatters DST": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Void Cowl",
+        "url": "https://dontstarve.wiki.gg/wiki/Void_Cowl",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4e/Void_Cowl.png/40px-Void_Cowl.png",
+        "crafting": {
+            "Pure Horror": 4,
+            "Dark Tatters DST": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Umbralla",
+        "url": "https://dontstarve.wiki.gg/wiki/Umbralla",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Umbralla.png/40px-Umbralla.png",
+        "crafting": {
+            "Dark Tatters DST": 1,
+            "Pure Horror": 5
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shadow Reaper",
+        "url": "https://dontstarve.wiki.gg/wiki/Shadow_Reaper",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cb/Shadow_Reaper.png/40px-Shadow_Reaper.png",
+        "crafting": {
+            "Pure Horror": 3,
+            "Dark Tatters DST": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Void Repair Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Void_Repair_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a4/Void_Repair_Kit.png/40px-Void_Repair_Kit.png",
+        "crafting": {
+            "Pure Horror": 1,
+            "Dark Tatters DST": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Embalming Spritz",
+        "url": "https://dontstarve.wiki.gg/wiki/Embalming_Spritz",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/66/Embalming_Spritz.png/40px-Embalming_Spritz.png",
+        "crafting": {
+            "Honeycomb": 3,
+            "Pure Horror": 5,
+            "Mosquito Sack": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Garlic Powder",
+        "url": "https://dontstarve.wiki.gg/wiki/Garlic_Powder",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/38/Garlic_Powder.png/40px-Garlic_Powder.png",
+        "crafting": {
+            "Garlic": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Honey Crystals",
+        "url": "https://dontstarve.wiki.gg/wiki/Honey_Crystals",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d9/Honey_Crystals.png/40px-Honey_Crystals.png",
+        "crafting": {
+            "Honey": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Chili Flakes",
+        "url": "https://dontstarve.wiki.gg/wiki/Chili_Flakes",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c2/Chili_Flakes.png/40px-Chili_Flakes.png",
+        "crafting": {
+            "Pepper": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Seasoning Salt",
+        "url": "https://dontstarve.wiki.gg/wiki/Seasoning_Salt",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/19/Seasoning_Salt.png/40px-Seasoning_Salt.png",
+        "crafting": {
+            "Salt Crystals": 3
+        },
+        "hammerable": false
+    }
+]
