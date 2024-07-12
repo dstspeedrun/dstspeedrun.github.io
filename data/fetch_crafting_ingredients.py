@@ -115,7 +115,7 @@ with open('craftables.json', 'r', encoding='utf-8') as f:
 asyncio.run(fetch_all_items(craftables))
 
 # Save the updated data to a new JSON file
-with open('updated_craftables.json', 'w', encoding='utf-8') as f:
+with open('craftables.json', 'w', encoding='utf-8') as f:
     json.dump(craftables, f, ensure_ascii=False, indent=4)
 
-print(f"Successfully updated {len(craftables)} items and saved to updated_craftables.json.")
+print(f"Successfully updated {len(craftables)} items and saved to craftables.json.")
