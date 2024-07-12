@@ -5,11 +5,13 @@ from urllib.parse import urljoin
 import asyncio
 import aiohttp
 from tqdm.asyncio import tqdm
+from tenacity import retry, stop_after_attempt, wait_fixed, retry_if_exception_type
 
 # URL of the page to scrape
 url = "https://dontstarve.wiki.gg/wiki/Template:Resources"
 base_url = "https://dontstarve.wiki.gg"
 
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2), retry=retry_if_exception_type(aiohttp.ClientError))
 async def fetch_page(session, url):
     try:
         async with session.get(url) as response:

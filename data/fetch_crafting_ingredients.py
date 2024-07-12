@@ -1,8 +1,10 @@
 import json
 import re
-import requests
+import asyncio
+import aiohttp
 from bs4 import BeautifulSoup
-from tqdm import tqdm
+from tqdm.asyncio import tqdm
+from tenacity import retry, stop_after_attempt, wait_fixed, retry_if_exception_type
 
 # Function to extract ingredient data
 def extract_ingredients(soup):
@@ -50,13 +52,26 @@ def extract_crafting_text(soup):
 
     return crafting_text
 
-def fetch_item_data(item, session, progress_bar):
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2), retry=retry_if_exception_type(aiohttp.ClientError))
+async def fetch_page(session, url):
+    try:
+        async with session.get(url) as response:
+            response.raise_for_status()
+            return await response.text()
+    except Exception as e:
+        print(f"Error fetching {url}: {e}")
+        return None
+
+async def fetch_item_data(item, session, progress_bar):
     url = item['url']
     title = item['title']
 
-    response = session.get(url)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, 'html.parser')
+    response_text = await fetch_page(session, url)
+    if not response_text:
+        progress_bar.update(1)
+        return
+
+    soup = BeautifulSoup(response_text, 'html.parser')
 
     # Find the title in the HTML
     h2 = soup.find('h2', class_='pi-item pi-item-spacing pi-title', string=title)
@@ -86,22 +101,21 @@ def fetch_item_data(item, session, progress_bar):
     # Update progress bar after task completion
     progress_bar.update(1)
 
-def fetch_all_items(craftables):
-    with requests.Session() as session:
-        # Initialize tqdm progress bar
-        with tqdm(total=len(craftables)) as pbar:
-            for item in craftables:
-                fetch_item_data(item, session, pbar)
+async def fetch_all_items(craftables):
+    async with aiohttp.ClientSession() as session:
+        with tqdm(total=len(craftables), desc="Processing items") as pbar:
+            tasks = [fetch_item_data(item, session, pbar) for item in craftables]
+            await asyncio.gather(*tasks)
 
 # Load craftables.json
 with open('craftables.json', 'r', encoding='utf-8') as f:
     craftables = json.load(f)
 
 # Fetch all items
-fetch_all_items(craftables)
+asyncio.run(fetch_all_items(craftables))
 
 # Save the updated data to a new JSON file
-with open('craftables.json', 'w', encoding='utf-8') as f:
+with open('updated_craftables.json', 'w', encoding='utf-8') as f:
     json.dump(craftables, f, ensure_ascii=False, indent=4)
 
 print(f"Successfully updated {len(craftables)} items and saved to updated_craftables.json.")
