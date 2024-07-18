@@ -1384,62 +1384,65 @@
         "url": "https://dontstarve.wiki.gg/wiki/Communal_Kelp_Dish",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cb/Communal_Kelp_Dish.png/40px-Communal_Kelp_Dish.png",
         "crafting": {
-            "Log": 4,
-            "Cut Reeds": 1
+            "Log": 8,
+            "Cut Reeds": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Superior Communal Kelp Dish",
         "url": "https://dontstarve.wiki.gg/wiki/Superior_Communal_Kelp_Dish",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9e/Superior_Communal_Kelp_Dish.png/40px-Superior_Communal_Kelp_Dish.png",
         "crafting": {
-            "Log": 4,
-            "Cut Reeds": 1
+            "Log": 12,
+            "Cut Reeds": 3,
+            "Tentacle Spots": 1
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Shoddy Tool Shed",
         "url": "https://dontstarve.wiki.gg/wiki/Shoddy_Tool_Shed",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/Shoddy_Tool_Shed.png/40px-Shoddy_Tool_Shed.png",
         "crafting": {
-            "Log": 4,
-            "Twigs": 2,
-            "Rocks": 2
+            "Log": 8,
+            "Twigs": 5,
+            "Rocks": 5
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Slightly Less Shoddy Tool Shed",
         "url": "https://dontstarve.wiki.gg/wiki/Slightly_Less_Shoddy_Tool_Shed",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/6/61/Slightly_Less_Shoddy_Tool_Shed.png/40px-Slightly_Less_Shoddy_Tool_Shed.png",
         "crafting": {
-            "Log": 8,
-            "Twigs": 2,
-            "Rocks": 2
+            "Log": 16,
+            "Tentacle Spots": 1,
+            "Twigs": 5,
+            "Rocks": 5
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Armermry",
         "url": "https://dontstarve.wiki.gg/wiki/Armermry",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Armermry.png/40px-Armermry.png",
         "crafting": {
-            "Log": 2,
-            "Cut Grass": 2
+            "Log": 5,
+            "Cut Grass": 5
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Superior Armermry",
         "url": "https://dontstarve.wiki.gg/wiki/Superior_Armermry",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6c/Superior_Armermry.png/40px-Superior_Armermry.png",
         "crafting": {
-            "Log": 2,
-            "Cut Grass": 2
+            "Log": 5,
+            "Tentacle Spots": 1,
+            "Cut Grass": 5
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Dreaded Mudslinger",
@@ -1730,72 +1733,37 @@
     {
         "title": "Luxury Axe",
         "url": "https://dontstarve.wiki.gg/wiki/Luxury_Axe/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e9/Luxury_Axe.png/40px-Luxury_Axe.png",
-        "crafting": {
-            "Twigs": 4,
-            "Gold Nugget": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e9/Luxury_Axe.png/40px-Luxury_Axe.png"
     },
     {
         "title": "Opulent Pickaxe",
         "url": "https://dontstarve.wiki.gg/wiki/Opulent_Pickaxe/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6b/Opulent_Pickaxe.png/40px-Opulent_Pickaxe.png",
-        "crafting": {
-            "Twigs": 4,
-            "Gold Nugget": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6b/Opulent_Pickaxe.png/40px-Opulent_Pickaxe.png"
     },
     {
         "title": "Regal Shovel",
         "url": "https://dontstarve.wiki.gg/wiki/Regal_Shovel/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e2/Regal_Shovel.png/40px-Regal_Shovel.png",
-        "crafting": {
-            "Twigs": 4,
-            "Gold Nugget": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e2/Regal_Shovel.png/40px-Regal_Shovel.png"
     },
     {
         "title": "Splendid Garden Hoe",
         "url": "https://dontstarve.wiki.gg/wiki/Splendid_Garden_Hoe",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Splendid_Garden_Hoe.png/40px-Splendid_Garden_Hoe.png",
-        "crafting": {
-            "Twigs": 4,
-            "Gold Nugget": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Splendid_Garden_Hoe.png/40px-Splendid_Garden_Hoe.png"
     },
     {
         "title": "Snazzy Pitchfork",
         "url": "https://dontstarve.wiki.gg/wiki/Snazzy_Pitchfork",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Snazzy_Pitchfork.png/40px-Snazzy_Pitchfork.png",
-        "crafting": {
-            "Twigs": 4,
-            "Gold Nugget": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Snazzy_Pitchfork.png/40px-Snazzy_Pitchfork.png"
     },
     {
         "title": "Trap",
         "url": "https://dontstarve.wiki.gg/wiki/Trap/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a9/Trap.png/40px-Trap.png",
-        "crafting": {
-            "Cut Grass": 6,
-            "Twigs": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a9/Trap.png/40px-Trap.png"
     },
     {
         "title": "Bird Trap",
         "url": "https://dontstarve.wiki.gg/wiki/Bird_Trap/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Bird_Trap.png/40px-Bird_Trap.png",
-        "crafting": {
-            "Twigs": 3,
-            "Silk": 4
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Bird_Trap.png/40px-Bird_Trap.png"
     },
     {
         "title": "Bug Net",
