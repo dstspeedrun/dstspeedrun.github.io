@@ -35,14 +35,19 @@ jobs:
         chmod +x make.sh
         ./make.sh
     
-    - name: Add and commit changes
+    - name: Check for changes and commit if any
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Updated data"
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          git commit -m "Updated data"
+        else
+          echo "No changes to commit"
+        fi
     
     - name: Push changes
+      if: success()
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
