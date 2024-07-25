@@ -1748,37 +1748,72 @@
     {
         "title": "Luxury Axe",
         "url": "https://dontstarve.wiki.gg/wiki/Luxury_Axe/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e9/Luxury_Axe.png/40px-Luxury_Axe.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e9/Luxury_Axe.png/40px-Luxury_Axe.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Opulent Pickaxe",
         "url": "https://dontstarve.wiki.gg/wiki/Opulent_Pickaxe/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6b/Opulent_Pickaxe.png/40px-Opulent_Pickaxe.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/6b/Opulent_Pickaxe.png/40px-Opulent_Pickaxe.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Regal Shovel",
         "url": "https://dontstarve.wiki.gg/wiki/Regal_Shovel/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e2/Regal_Shovel.png/40px-Regal_Shovel.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e2/Regal_Shovel.png/40px-Regal_Shovel.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Splendid Garden Hoe",
         "url": "https://dontstarve.wiki.gg/wiki/Splendid_Garden_Hoe",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Splendid_Garden_Hoe.png/40px-Splendid_Garden_Hoe.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/db/Splendid_Garden_Hoe.png/40px-Splendid_Garden_Hoe.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Snazzy Pitchfork",
         "url": "https://dontstarve.wiki.gg/wiki/Snazzy_Pitchfork",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Snazzy_Pitchfork.png/40px-Snazzy_Pitchfork.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c9/Snazzy_Pitchfork.png/40px-Snazzy_Pitchfork.png",
+        "crafting": {
+            "Twigs": 4,
+            "Gold Nugget": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Trap",
         "url": "https://dontstarve.wiki.gg/wiki/Trap/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a9/Trap.png/40px-Trap.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a9/Trap.png/40px-Trap.png",
+        "crafting": {
+            "Cut Grass": 6,
+            "Twigs": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Bird Trap",
         "url": "https://dontstarve.wiki.gg/wiki/Bird_Trap/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Bird_Trap.png/40px-Bird_Trap.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/23/Bird_Trap.png/40px-Bird_Trap.png",
+        "crafting": {
+            "Twigs": 3,
+            "Silk": 4
+        },
+        "hammerable": false
     },
     {
         "title": "Bug Net",
@@ -1880,13 +1915,7 @@
     {
         "title": "Waterfowl Can",
         "url": "https://dontstarve.wiki.gg/wiki/Waterfowl_Can",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Waterfowl_Can.png/40px-Waterfowl_Can.png",
-        "crafting": {
-            "Driftwood Piece": 2,
-            "Cut Grass": 3,
-            "Malbatross Bill": 1
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Waterfowl_Can.png/40px-Waterfowl_Can.png"
     },
     {
         "title": "Fishing Rod",
@@ -2911,24 +2940,12 @@
     {
         "title": "Pretty Parasol",
         "url": "https://dontstarve.wiki.gg/wiki/Pretty_Parasol/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d3/Pretty_Parasol.png/40px-Pretty_Parasol.png",
-        "crafting": {
-            "Twigs": 4,
-            "Cut Grass": 3,
-            "Petals": 6
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d3/Pretty_Parasol.png/40px-Pretty_Parasol.png"
     },
     {
         "title": "Umbrella",
         "url": "https://dontstarve.wiki.gg/wiki/Umbrella/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/06/Umbrella.png/40px-Umbrella.png",
-        "crafting": {
-            "Twigs": 6,
-            "Pig Skin": 1,
-            "Silk": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/06/Umbrella.png/40px-Umbrella.png"
     },
     {
         "title": "Luxury Fan",
@@ -4113,7 +4130,7 @@
             "Charcoal": 6,
             "Twigs": 6
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Drying Rack",
@@ -4124,7 +4141,7 @@
             "Charcoal": 2,
             "Cut Grass": 9
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Ocean Trawler Kit",
