@@ -1915,7 +1915,13 @@
     {
         "title": "Waterfowl Can",
         "url": "https://dontstarve.wiki.gg/wiki/Waterfowl_Can",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Waterfowl_Can.png/40px-Waterfowl_Can.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/75/Waterfowl_Can.png/40px-Waterfowl_Can.png",
+        "crafting": {
+            "Driftwood Piece": 2,
+            "Cut Grass": 3,
+            "Malbatross Bill": 1
+        },
+        "hammerable": false
     },
     {
         "title": "Fishing Rod",
@@ -2940,12 +2946,24 @@
     {
         "title": "Pretty Parasol",
         "url": "https://dontstarve.wiki.gg/wiki/Pretty_Parasol/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d3/Pretty_Parasol.png/40px-Pretty_Parasol.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d3/Pretty_Parasol.png/40px-Pretty_Parasol.png",
+        "crafting": {
+            "Twigs": 4,
+            "Cut Grass": 3,
+            "Petals": 6
+        },
+        "hammerable": false
     },
     {
         "title": "Umbrella",
         "url": "https://dontstarve.wiki.gg/wiki/Umbrella/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/06/Umbrella.png/40px-Umbrella.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/0/06/Umbrella.png/40px-Umbrella.png",
+        "crafting": {
+            "Twigs": 6,
+            "Pig Skin": 1,
+            "Silk": 2
+        },
+        "hammerable": false
     },
     {
         "title": "Luxury Fan",
