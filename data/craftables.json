@@ -1991,7 +1991,7 @@
             "Rocks": 10,
             "Log": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Endothermic Fire",
@@ -2088,7 +2088,7 @@
             "Charcoal": 10,
             "Scales": 1
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Mushlight",
@@ -3462,7 +3462,7 @@
             "Boards": 2,
             "Carpeted Flooring": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Wardrobe",

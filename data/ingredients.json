@@ -2073,7 +2073,7 @@
             "Rocks": 10,
             "Log": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Endothermic Fire",
@@ -2172,7 +2172,7 @@
             "Charcoal": 10,
             "Scales": 1
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Mushlight",
@@ -3566,7 +3566,7 @@
             "Log": 16,
             "Beefalo Wool": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Wardrobe",

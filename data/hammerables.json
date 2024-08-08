@@ -2052,10 +2052,10 @@
         "url": "https://dontstarve.wiki.gg/wiki/Humble_Lamb_Idol",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/4/43/Humble_Lamb_Idol.png/40px-Humble_Lamb_Idol.png",
         "crafting": {
-            "Rocks": 5,
-            "Log": 1
+            "Rocks": 10,
+            "Log": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Endothermic Fire",
@@ -2149,10 +2149,11 @@
         "url": "https://dontstarve.wiki.gg/wiki/Scaled_Furnace",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/2/21/Scaled_Furnace.png/40px-Scaled_Furnace.png",
         "crafting": {
-            "Red Gem": 1,
-            "Charcoal": 5
+            "Red Gem": 2,
+            "Charcoal": 10,
+            "Scales": 1
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Mushlight",
@@ -3501,11 +3502,11 @@
         "url": "https://dontstarve.wiki.gg/wiki/End_Table",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/4/44/End_Table.png/40px-End_Table.png",
         "crafting": {
-            "Marble": 1,
-            "Log": 8,
-            "Beefalo Wool": 1
+            "Marble": 2,
+            "Log": 16,
+            "Beefalo Wool": 2
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Wardrobe",
