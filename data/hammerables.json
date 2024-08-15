@@ -708,10 +708,11 @@
         "url": "https://dontstarve.wiki.gg/wiki/Magician%27s_Chest",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/1/17/Magician%27s_Chest.png/40px-Magician%27s_Chest.png",
         "crafting": {
-            "Log": 8,
-            "Nightmare Fuel": 4
+            "Silk": 1,
+            "Log": 16,
+            "Nightmare Fuel": 9
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Magician's Top Hat",
@@ -2279,8 +2280,12 @@
         "title": "Masonry Oven",
         "url": "https://dontstarve.wiki.gg/wiki/Masonry_Oven",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d9/Masonry_Oven.png/40px-Masonry_Oven.png",
-        "crafting": {},
-        "hammerable": true
+        "crafting": {
+            "Rocks": 3,
+            "Marble": 1,
+            "Log": 1
+        },
+        "hammerable": false
     },
     {
         "title": "Gobbler Shrine",
@@ -3523,10 +3528,10 @@
         "url": "https://dontstarve.wiki.gg/wiki/Beefalo_Grooming_Station",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1f/Beefalo_Grooming_Station.png/40px-Beefalo_Grooming_Station.png",
         "crafting": {
-            "Beefalo Wool": 1,
-            "Log": 8
+            "Beefalo Wool": 2,
+            "Log": 16
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Fish Scale-O-Matic",
@@ -4064,8 +4069,11 @@
         "title": "Winter's Feast Table",
         "url": "https://dontstarve.wiki.gg/wiki/Winter%27s_Feast_Table",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/8/8e/Winter%27s_Feast_Table.png/40px-Winter%27s_Feast_Table.png",
-        "crafting": {},
-        "hammerable": true
+        "crafting": {
+            "Log": 4,
+            "Beefalo Wool": 1
+        },
+        "hammerable": false
     },
     {
         "title": "Crock Pot",

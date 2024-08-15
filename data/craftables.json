@@ -698,7 +698,7 @@
             "Boards": 4,
             "Nightmare Fuel": 9
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Magician's Top Hat",
@@ -2236,7 +2236,7 @@
             "Marble": 1,
             "Log": 1
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Gobbler Shrine",
@@ -3482,7 +3482,7 @@
             "Beefalo Wool": 2,
             "Boards": 4
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Fish Scale-O-Matic",
@@ -4032,7 +4032,7 @@
             "Boards": 1,
             "Beefalo Wool": 1
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Crock Pot",
