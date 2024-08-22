@@ -4180,7 +4180,7 @@
             "Boards": 2,
             "Nitre": 4
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Gourmet Salt Lick",
@@ -4190,7 +4190,7 @@
             "Boards": 2,
             "Salt Crystals": 6
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Incomplete Experiment",

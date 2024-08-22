@@ -4286,7 +4286,7 @@
             "Log": 8,
             "Nitre": 4
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Gourmet Salt Lick",
@@ -4296,7 +4296,7 @@
             "Log": 8,
             "Salt Crystals": 6
         },
-        "hammerable": true
+        "hammerable": false
     },
     {
         "title": "Incomplete Experiment",
