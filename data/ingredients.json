@@ -762,7 +762,13 @@
     {
         "title": "Commander's Helm",
         "url": "https://dontstarve.wiki.gg/wiki/Commander%27s_Helm",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Commander%27s_Helm.png/40px-Commander%27s_Helm.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/3a/Commander%27s_Helm.png/40px-Commander%27s_Helm.png",
+        "crafting": {
+            "Gold Nugget": 2,
+            "Beefalo Wool": 2,
+            "Marble": 1
+        },
+        "hammerable": false
     },
     {
         "title": "Weaponized Warble",
@@ -1812,7 +1818,13 @@
     {
         "title": "Bug Net",
         "url": "https://dontstarve.wiki.gg/wiki/Bug_Net/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d5/Bug_Net.png/40px-Bug_Net.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d5/Bug_Net.png/40px-Bug_Net.png",
+        "crafting": {
+            "Twigs": 4,
+            "Silk": 2,
+            "Cut Grass": 3
+        },
+        "hammerable": false
     },
     {
         "title": "Razor",
@@ -2823,12 +2835,26 @@
     {
         "title": "W.A.R.B.I.S. Armor",
         "url": "https://dontstarve.wiki.gg/wiki/W.A.R.B.I.S._Armor",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/W.A.R.B.I.S._Armor.png/40px-W.A.R.B.I.S._Armor.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/W.A.R.B.I.S._Armor.png/40px-W.A.R.B.I.S._Armor.png",
+        "crafting": {
+            "Scrap": 8,
+            "Gold Nugget": 6,
+            "Rocks": 9,
+            "Enlightened Shard": 1
+        },
+        "hammerable": false
     },
     {
         "title": "W.A.R.B.I.S. Head Gear",
         "url": "https://dontstarve.wiki.gg/wiki/W.A.R.B.I.S._Head_Gear",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/W.A.R.B.I.S._Head_Gear.png/40px-W.A.R.B.I.S._Head_Gear.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7c/W.A.R.B.I.S._Head_Gear.png/40px-W.A.R.B.I.S._Head_Gear.png",
+        "crafting": {
+            "Scrap": 8,
+            "Gold Nugget": 6,
+            "Rocks": 9,
+            "Enlightened Shard": 1
+        },
+        "hammerable": false
     },
     {
         "title": "Sewing Kit",
