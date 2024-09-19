@@ -4045,6 +4045,16 @@
         "hammerable": true
     },
     {
+        "title": "Stone Chair",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Chair",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/16/Stone_Chair.png/40px-Stone_Chair.png",
+        "crafting": {
+            "Rocks": 3,
+            "Cut Grass": 6
+        },
+        "hammerable": true
+    },
+    {
         "title": "Wooden Chair",
         "url": "https://dontstarve.wiki.gg/wiki/Wooden_Stool",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/0/0a/Wooden_Stool.png/40px-Wooden_Stool.png",
@@ -4052,6 +4062,11 @@
             "Log": 4
         },
         "hammerable": true
+    },
+    {
+        "title": "Stone Stool",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Stool",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4a/Stone_Stool.png/40px-Stone_Stool.png"
     },
     {
         "title": "Square/Round Wooden Table",
@@ -4064,6 +4079,11 @@
         "hammerable": true
     },
     {
+        "title": "Stone Wooden Table",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Wooden_Table",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/56/Stone_Round_Table.png/40px-Stone_Round_Table.png"
+    },
+    {
         "title": "Square/Round Wooden Table",
         "url": "https://dontstarve.wiki.gg/wiki/Square_Wooden_Table",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/98/Square_Wooden_Table.png/40px-Square_Wooden_Table.png",
@@ -4072,6 +4092,11 @@
             "Cut Grass": 3
         },
         "hammerable": true
+    },
+    {
+        "title": "Stone Square Table",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Square_Table",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c4/Stone_Square_Table.png/40px-Stone_Square_Table.png"
     },
     {
         "title": "Art?",
@@ -4344,6 +4369,16 @@
         "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Mini_Sign.png/40px-Mini_Sign.png",
         "crafting": {
             "Log": 4
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Spelunker's Bridge Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Spelunker%27s_Bridge_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/49/Spelunker%27s_Bridge_Kit.png/40px-Spelunker%27s_Bridge_Kit.png",
+        "crafting": {
+            "Cut Grass": 6,
+            "Log": 16
         },
         "hammerable": false
     },
@@ -5168,6 +5203,16 @@
         "hammerable": false
     },
     {
+        "title": "Bunch o' Boards",
+        "url": "https://dontstarve.wiki.gg/wiki/File:Bunch_o%27_Boards.png",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/13/Bunch_o%27_Boards.png/40px-Bunch_o%27_Boards.png"
+    },
+    {
+        "title": "Bunch o' Stone",
+        "url": "https://dontstarve.wiki.gg/wiki/File:Bunch_o%27_Stone.png",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c3/Bunch_o%27_Stone.png/40px-Bunch_o%27_Stone.png"
+    },
+    {
         "title": "Map Scroll",
         "url": "https://dontstarve.wiki.gg/wiki/Map_Scroll",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/6/62/Map_Scroll.png/40px-Map_Scroll.png",
@@ -5236,6 +5281,16 @@
         "crafting": {
             "Log": 4,
             "Moon Shard": 6
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Moon Glass Saw Blade",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Glass_Saw_Blade",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ea/Moon_Glass_Saw_Blade.png/40px-Moon_Glass_Saw_Blade.png",
+        "crafting": {
+            "Moon Shard": 6,
+            "Moon Moth": 1
         },
         "hammerable": false
     },
@@ -5427,12 +5482,58 @@
         "hammerable": false
     },
     {
+        "title": "Gloomerang",
+        "url": "https://dontstarve.wiki.gg/wiki/Gloomerang",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/43/Gloomerang.png/40px-Gloomerang.png",
+        "crafting": {
+            "Pure Horror": 4,
+            "Dark Tatters DST": 2
+        },
+        "hammerable": false
+    },
+    {
         "title": "Void Repair Kit",
         "url": "https://dontstarve.wiki.gg/wiki/Void_Repair_Kit",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a4/Void_Repair_Kit.png/40px-Void_Repair_Kit.png",
         "crafting": {
             "Pure Horror": 1,
             "Dark Tatters DST": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Shadow Maul",
+        "url": "https://dontstarve.wiki.gg/wiki/Shadow_Maul",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/6/62/Shadow_Maul.png/40px-Shadow_Maul.png",
+        "crafting": {
+            "Possessed Shadow Atrium": 1,
+            "Pure Horror": 5,
+            "Dreadstone": 3,
+            "Dark Tatters DST": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Beefalo Gloom Bell",
+        "url": "https://dontstarve.wiki.gg/wiki/Beefalo_Gloom_Bell",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/79/Beefalo_Gloom_Bell.png/40px-Beefalo_Gloom_Bell.png",
+        "crafting": {
+            "Possessed Shadow Atrium": 1,
+            "Pure Horror": 5,
+            "Dreadstone": 4,
+            "Dark Tatters DST": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Nightmare Saddle",
+        "url": "https://dontstarve.wiki.gg/wiki/Nightmare_Saddle",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/de/Nightmare_Saddle.png/40px-Nightmare_Saddle.png",
+        "crafting": {
+            "Shadow Atrium": 1,
+            "Pure Horror": 8,
+            "Dreadstone": 8,
+            "Dark Tatters DST": 5
         },
         "hammerable": false
     },
@@ -5444,6 +5545,16 @@
             "Honeycomb": 3,
             "Pure Horror": 5,
             "Mosquito Sack": 2
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Icker Preserve Kit",
+        "url": "https://dontstarve.wiki.gg/wiki/Icker_Preserve_Kit",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Icker_Preserve_Kit.png/40px-Icker_Preserve_Kit.png",
+        "crafting": {
+            "Icker Jar": 3,
+            "Dreadstone": 5
         },
         "hammerable": false
     },
@@ -5480,6 +5591,36 @@
         "image_url": "https://dontstarve.wiki.gg/images/thumb/1/19/Seasoning_Salt.png/40px-Seasoning_Salt.png",
         "crafting": {
             "Salt Crystals": 3
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Coat of Carrots",
+        "url": "https://dontstarve.wiki.gg/wiki/Coat_of_Carrots",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f3/Coat_of_Carrots.png/40px-Coat_of_Carrots.png",
+        "crafting": {
+            "Carrot": 8,
+            "Cut Grass": 9
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Burrowing Horn",
+        "url": "https://dontstarve.wiki.gg/wiki/Burrowing_Horn",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Burrowing_Horn.png/40px-Burrowing_Horn.png",
+        "crafting": {
+            "Carrot": 4,
+            "Cut Reeds": 1
+        },
+        "hammerable": false
+    },
+    {
+        "title": "Warren Wreath",
+        "url": "https://dontstarve.wiki.gg/wiki/Warren_Wreath",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2f/Warren_Wreath.png/40px-Warren_Wreath.png",
+        "crafting": {
+            "Rabbit": 1,
+            "Cut Grass": 6
         },
         "hammerable": false
     }

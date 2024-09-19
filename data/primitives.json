@@ -760,6 +760,11 @@
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Shadow_Atrium.png/40px-Shadow_Atrium.png"
     },
     {
+        "title": "Possessed Shadow Atrium",
+        "url": "https://dontstarve.wiki.gg/wiki/Possessed_Shadow_Atrium",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cb/Possessed_Shadow_Atrium.png/40px-Possessed_Shadow_Atrium.png"
+    },
+    {
         "title": "Fragile Rose",
         "url": "https://dontstarve.wiki.gg/wiki/Fragile_Rose",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b4/Fragile_Rose.png/40px-Fragile_Rose.png"
@@ -903,6 +908,11 @@
         "title": "Message in a Bottle",
         "url": "https://dontstarve.wiki.gg/wiki/Message_in_a_Bottle/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/7/7f/Message_in_a_Bottle.png/40px-Message_in_a_Bottle.png"
+    },
+    {
+        "title": "Icker Jar",
+        "url": "https://dontstarve.wiki.gg/wiki/Icker_Jar",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d8/Icker_Jar.png/40px-Icker_Jar.png"
     },
     {
         "title": "Accursed Trinket",
