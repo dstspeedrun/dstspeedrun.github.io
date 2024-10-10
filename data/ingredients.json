@@ -5184,11 +5184,6 @@
         "title": "Houndius Shootius",
         "url": "https://dontstarve.wiki.gg/wiki/Houndius_Shootius/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c8/Houndius_Shootius.png/40px-Houndius_Shootius.png",
-        "crafting": {
-            "Guardian's Horn": 1,
-            "Deerclops Eyeball": 1,
-            "Thulecite Fragments": 30
-        },
         "hammerable": false
     },
     {
