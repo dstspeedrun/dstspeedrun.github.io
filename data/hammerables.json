@@ -774,10 +774,7 @@
             "Cut Reeds": 4,
             "Charcoal": 1,
             "Jet Feather": 1,
-            "Twigs": 1,
-            "Log": 1,
-            "Silk": 8,
-            "Hound's Tooth": 2
+            "Twigs": 1
         },
         "hammerable": false
     },
@@ -2817,68 +2814,32 @@
     {
         "title": "Sewing Kit",
         "url": "https://dontstarve.wiki.gg/wiki/Sewing_Kit",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Sewing_Kit.png/40px-Sewing_Kit.png",
-        "crafting": {
-            "Log": 1,
-            "Silk": 8,
-            "Hound's Tooth": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Sewing_Kit.png/40px-Sewing_Kit.png"
     },
     {
         "title": "Backpack",
         "url": "https://dontstarve.wiki.gg/wiki/Backpack/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b1/Backpack.png/40px-Backpack.png",
-        "crafting": {
-            "Cut Grass": 4,
-            "Twigs": 4
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b1/Backpack.png/40px-Backpack.png"
     },
     {
         "title": "Seed Pack-It",
         "url": "https://dontstarve.wiki.gg/wiki/Seed_Pack-It",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/50/Seed_Pack-It.png/40px-Seed_Pack-It.png",
-        "crafting": {
-            "Broken Shell (DST)": 2,
-            "Cut Grass": 4,
-            "Seeds": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/50/Seed_Pack-It.png/40px-Seed_Pack-It.png"
     },
     {
         "title": "Piggyback",
         "url": "https://dontstarve.wiki.gg/wiki/Piggyback/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5b/Piggyback.png/40px-Piggyback.png",
-        "crafting": {
-            "Pig Skin": 4,
-            "Silk": 6,
-            "Cut Grass": 6
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5b/Piggyback.png/40px-Piggyback.png"
     },
     {
         "title": "Insulated Pack",
         "url": "https://dontstarve.wiki.gg/wiki/Insulated_Pack/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/21/Insulated_Pack.png/40px-Insulated_Pack.png",
-        "crafting": {
-            "Thick Fur": 1,
-            "Gears": 1,
-            "Gold Nugget": 2,
-            "Rocks": 3
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/2/21/Insulated_Pack.png/40px-Insulated_Pack.png"
     },
     {
         "title": "One-man Band",
         "url": "https://dontstarve.wiki.gg/wiki/One-man_Band/DST",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/One-man_Band.png/40px-One-man_Band.png",
-        "crafting": {
-            "Gold Nugget": 2,
-            "Nightmare Fuel": 4,
-            "Pig Skin": 2
-        },
-        "hammerable": false
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/d/dd/One-man_Band.png/40px-One-man_Band.png"
     },
     {
         "title": "Belt of Hunger",
