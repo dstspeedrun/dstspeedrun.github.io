@@ -2998,7 +2998,11 @@
     {
         "title": "Seawreath",
         "url": "https://dontstarve.wiki.gg/wiki/Seawreath",
-        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1d/Seawreath.png/40px-Seawreath.png"
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/1/1d/Seawreath.png/40px-Seawreath.png",
+        "crafting": {
+            "Kelp Fronds": 6
+        },
+        "hammerable": false
     },
     {
         "title": "Straw Hat",
