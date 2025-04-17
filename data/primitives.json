@@ -836,12 +836,12 @@
     },
     {
         "title": "Sketch",
-        "url": "https://dontstarve.wiki.gg/wiki/Sketch/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Sketch",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/5/5f/Sketch.png/40px-Sketch.png?fbf9be"
     },
     {
         "title": "Recipe Card",
-        "url": "https://dontstarve.wiki.gg/wiki/Recipe_Card/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Recipe_Card",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/5/50/Recipe_Card.png/40px-Recipe_Card.png?be09d7"
     },
     {
@@ -851,7 +851,7 @@
     },
     {
         "title": "Advert",
-        "url": "https://dontstarve.wiki.gg/wiki/Advert/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Advert",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d6/Fishing_Blueprint.png/40px-Fishing_Blueprint.png?508d55"
     },
     {
@@ -928,6 +928,16 @@
         "title": "Black Flag",
         "url": "https://dontstarve.wiki.gg/wiki/Black_Flag/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a7/Black_Flag.png/40px-Black_Flag.png?eccb86"
+    },
+    {
+        "title": "Playing Card",
+        "url": "https://dontstarve.wiki.gg/wiki/Playing_Card/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/4d/Playing_Card.png/40px-Playing_Card.png?1ccc98"
+    },
+    {
+        "title": "Deck Of Cards",
+        "url": "https://dontstarve.wiki.gg/wiki/Deck_Of_Cards/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Deck_Of_Cards3.png/40px-Deck_Of_Cards3.png?3de8aa"
     },
     {
         "title": "Ball and Cup",
