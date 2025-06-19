@@ -726,7 +726,7 @@
     },
     {
         "title": "Iridescent Gem",
-        "url": "https://dontstarve.wiki.gg/wiki/Iridescent_Gem",
+        "url": "https://dontstarve.wiki.gg/wiki/Iridescent_Gem/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/1/13/Iridescent_Gem.png/40px-Iridescent_Gem.png?d67b6f"
     },
     {
@@ -736,47 +736,47 @@
     },
     {
         "title": "Pure Horror",
-        "url": "https://dontstarve.wiki.gg/wiki/Pure_Horror",
+        "url": "https://dontstarve.wiki.gg/wiki/Pure_Horror/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/2/2b/Pure_Horror.png/40px-Pure_Horror.png?80afc3"
     },
     {
         "title": "Dark Tatters",
-        "url": "https://dontstarve.wiki.gg/wiki/Dark_Tatters/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Dark_Tatters/DST/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/93/Dark_Tatters_DST.png/40px-Dark_Tatters_DST.png?126d5a"
     },
     {
         "title": "Dreadstone",
-        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Dreadstone.png/40px-Dreadstone.png?560b78"
     },
     {
         "title": "Seed of Ruin",
-        "url": "https://dontstarve.wiki.gg/wiki/Seed_of_Ruin",
+        "url": "https://dontstarve.wiki.gg/wiki/Seed_of_Ruin/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/6/68/Seed_of_Ruin.png/40px-Seed_of_Ruin.png?e3b3e8"
     },
     {
         "title": "Shadow Atrium",
-        "url": "https://dontstarve.wiki.gg/wiki/Shadow_Atrium",
+        "url": "https://dontstarve.wiki.gg/wiki/Shadow_Atrium/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/9f/Shadow_Atrium.png/40px-Shadow_Atrium.png?abce9b"
     },
     {
         "title": "Possessed Shadow Atrium",
-        "url": "https://dontstarve.wiki.gg/wiki/Possessed_Shadow_Atrium",
+        "url": "https://dontstarve.wiki.gg/wiki/Possessed_Shadow_Atrium/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cb/Possessed_Shadow_Atrium.png/40px-Possessed_Shadow_Atrium.png?ee65cd"
     },
     {
         "title": "Fragile Rose",
-        "url": "https://dontstarve.wiki.gg/wiki/Fragile_Rose",
+        "url": "https://dontstarve.wiki.gg/wiki/Fragile_Rose/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b4/Fragile_Rose.png/40px-Fragile_Rose.png?c74303"
     },
     {
         "title": "Moongleam",
-        "url": "https://dontstarve.wiki.gg/wiki/Moongleam",
+        "url": "https://dontstarve.wiki.gg/wiki/Moongleam/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/91/Moongleam.png/40px-Moongleam.png?b52fa5"
     },
     {
         "title": "Pure Brilliance",
-        "url": "https://dontstarve.wiki.gg/wiki/Pure_Brilliance",
+        "url": "https://dontstarve.wiki.gg/wiki/Pure_Brilliance/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/c/cd/Pure_Brilliance.png/40px-Pure_Brilliance.png?102a2c"
     },
     {
@@ -786,7 +786,7 @@
     },
     {
         "title": "Moon Shard",
-        "url": "https://dontstarve.wiki.gg/wiki/Moon_Shard",
+        "url": "https://dontstarve.wiki.gg/wiki/Moon_Shard/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/90/Moon_Shard.png/40px-Moon_Shard.png?50cae4"
     },
     {
@@ -798,6 +798,11 @@
         "title": "Infused Moon Shard",
         "url": "https://dontstarve.wiki.gg/wiki/Infused_Moon_Shard/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fc/Infused_Moon_Shard.png/40px-Infused_Moon_Shard.png?4755ed"
+    },
+    {
+        "title": "Celestial Jewel",
+        "url": "https://dontstarve.wiki.gg/wiki/Celestial_Jewel/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/b/bc/Celestial_Jewel.png/40px-Celestial_Jewel.png?78a9de"
     },
     {
         "title": "Enlightened Shard",
@@ -818,6 +823,11 @@
         "title": "Scrap",
         "url": "https://dontstarve.wiki.gg/wiki/Scrap/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/b/b8/Scrap.png/40px-Scrap.png?383e34"
+    },
+    {
+        "title": "Gyroscopic Transduction Core",
+        "url": "https://dontstarve.wiki.gg/wiki/Gyroscopic_Transduction_Core/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fb/Gyroscopic_Transduction_Core.png/40px-Gyroscopic_Transduction_Core.png?6e6f30"
     },
     {
         "title": "Turbine Blades",
@@ -938,6 +948,21 @@
         "title": "Deck Of Cards",
         "url": "https://dontstarve.wiki.gg/wiki/Deck_Of_Cards/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Deck_Of_Cards3.png/40px-Deck_Of_Cards3.png?3de8aa"
+    },
+    {
+        "title": "Phasmo-Encapsulator",
+        "url": "https://dontstarve.wiki.gg/wiki/Phasmo-Encapsulator#Encapsulated_Gestalts/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c7/Phasmo-Encapsulator_Success.png/40px-Phasmo-Encapsulator_Success.png?464d89"
+    },
+    {
+        "title": "Glove",
+        "url": "https://dontstarve.wiki.gg/wiki/Glove/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/79/Glove.png/40px-Glove.png?d81108"
+    },
+    {
+        "title": "Clipboard",
+        "url": "https://dontstarve.wiki.gg/wiki/Clipboard/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/c/c7/Clipboard.png/40px-Clipboard.png?eefd0e"
     },
     {
         "title": "Ball and Cup",
