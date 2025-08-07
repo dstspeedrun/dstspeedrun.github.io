@@ -270,6 +270,11 @@
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/90/Lucky_Gold_Nugget.png/40px-Lucky_Gold_Nugget.png?e5019f"
     },
     {
+        "title": "Gold Dust",
+        "url": "https://dontstarve.wiki.gg/wiki/Gold_Dust",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/4/43/Gold_Dust.png/40px-Gold_Dust.png?9f4e74"
+    },
+    {
         "title": "Nitre",
         "url": "https://dontstarve.wiki.gg/wiki/Nitre/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/d/d9/Nitre.png/40px-Nitre.png?3786a1"
@@ -483,6 +488,11 @@
         "title": "Quacken Beak",
         "url": "https://dontstarve.wiki.gg/wiki/Quacken_Beak",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/e/e0/Quacken_Beak.png/40px-Quacken_Beak.png?ca83a1"
+    },
+    {
+        "title": "Nucleation Fluid",
+        "url": "https://dontstarve.wiki.gg/wiki/Nucleation_Fluid",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/33/Nucleation_Fluid.png/40px-Nucleation_Fluid.png?f5e2a1"
     },
     {
         "title": "Beefalo Wool",
@@ -741,17 +751,17 @@
     },
     {
         "title": "Dark Tatters",
-        "url": "https://dontstarve.wiki.gg/wiki/Dark_Tatters/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Dark_Tatters/DST/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/9/93/Dark_Tatters_DST.png/40px-Dark_Tatters_DST.png?126d5a"
     },
     {
         "title": "Dreadstone",
-        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Dreadstone",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/3/35/Dreadstone.png/40px-Dreadstone.png?560b78"
     },
     {
         "title": "Seed of Ruin",
-        "url": "https://dontstarve.wiki.gg/wiki/Seed_of_Ruin/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Seed_of_Ruin",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/6/68/Seed_of_Ruin.png/40px-Seed_of_Ruin.png?e3b3e8"
     },
     {
@@ -828,6 +838,11 @@
         "title": "Gyroscopic Transduction Core",
         "url": "https://dontstarve.wiki.gg/wiki/Gyroscopic_Transduction_Core/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/f/fb/Gyroscopic_Transduction_Core.png/40px-Gyroscopic_Transduction_Core.png?6e6f30"
+    },
+    {
+        "title": "W.A.R.B.O.T. Parts",
+        "url": "https://dontstarve.wiki.gg/wiki/W.A.R.B.O.T._Parts/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/7/78/W.A.R.B.O.T._Parts.png/40px-W.A.R.B.O.T._Parts.png?86aff7"
     },
     {
         "title": "Turbine Blades",
@@ -948,6 +963,11 @@
         "title": "Deck Of Cards",
         "url": "https://dontstarve.wiki.gg/wiki/Deck_Of_Cards/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/b/be/Deck_Of_Cards3.png/40px-Deck_Of_Cards3.png?3de8aa"
+    },
+    {
+        "title": "Spark Ark",
+        "url": "https://dontstarve.wiki.gg/wiki/Spark_Ark/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/5/58/Spark_Ark.png/40px-Spark_Ark.png?e83114"
     },
     {
         "title": "Phasmo-Encapsulator",
@@ -1283,6 +1303,31 @@
         "title": "Broken Hairdryer",
         "url": "https://dontstarve.wiki.gg/wiki/Broken_Hairdryer/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/a/ad/Broken_Hairdryer.png/40px-Broken_Hairdryer.png?7406a9"
+    },
+    {
+        "title": "Lost Idol",
+        "url": "https://dontstarve.wiki.gg/wiki/Lost_Idol/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/e/ef/Lost_Idol.png/40px-Lost_Idol.png?4ee97d"
+    },
+    {
+        "title": "Lost Totem",
+        "url": "https://dontstarve.wiki.gg/wiki/Lost_Totem/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/8/86/Lost_Totem.png/40px-Lost_Totem.png?e7a9a4"
+    },
+    {
+        "title": "Relic Fragment",
+        "url": "https://dontstarve.wiki.gg/wiki/Relic_Fragment/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/3/36/Relic_Fragment.png/40px-Relic_Fragment.png?7884a3"
+    },
+    {
+        "title": "The Blue Sow",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Blue_Sow/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/f/f1/The_Blue_Sow.png/40px-The_Blue_Sow.png?6a9281"
+    },
+    {
+        "title": "The Jeweled Truffle",
+        "url": "https://dontstarve.wiki.gg/wiki/The_Jeweled_Truffle/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/a/a1/The_Jeweled_Truffle.png/40px-The_Jeweled_Truffle.png?b610e3"
     },
     {
         "title": "Restrained Static",
