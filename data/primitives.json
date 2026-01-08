@@ -86,7 +86,7 @@
     },
     {
         "title": "Blooming Tuber",
-        "url": "https://dontstarve.wiki.gg/wiki/Blooming_Tuber/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Blooming_Tuber",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Blooming_Tuber.png/40px-Blooming_Tuber.png?206cb7"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "title": "Jungle Tree Seed",
-        "url": "https://dontstarve.wiki.gg/wiki/Jungle_Tree_Seed/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Jungle_Tree_Seed",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Jungle_Tree_Seed.png/40px-Jungle_Tree_Seed.png?d983b4"
     },
     {
@@ -136,12 +136,12 @@
     },
     {
         "title": "Lune Tree Blossom",
-        "url": "https://dontstarve.wiki.gg/wiki/Lune_Tree_Blossom",
+        "url": "https://dontstarve.wiki.gg/wiki/Lune_Tree_Blossom/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Lune_Tree_Blossom.png/40px-Lune_Tree_Blossom.png?63eb45"
     },
     {
         "title": "Palmcone Scale",
-        "url": "https://dontstarve.wiki.gg/wiki/Palmcone_Scale",
+        "url": "https://dontstarve.wiki.gg/wiki/Palmcone_Scale/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Palmcone_Scale.png/40px-Palmcone_Scale.png?2fe873"
     },
     {
@@ -181,17 +181,17 @@
     },
     {
         "title": "Juicy Berry Bush",
-        "url": "https://dontstarve.wiki.gg/wiki/Juicy_Berry_Bush/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Juicy_Berry_Bush",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Dug_Juicy_Berry_Bush.png/40px-Dug_Juicy_Berry_Bush.png?fab069"
     },
     {
         "title": "Stone Fruit Bush",
-        "url": "https://dontstarve.wiki.gg/wiki/Stone_Fruit_Bush/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Stone_Fruit_Bush",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Stone_Fruit_Bush.png/40px-Stone_Fruit_Bush.png?3abc3b"
     },
     {
         "title": "Coffee Plant",
-        "url": "https://dontstarve.wiki.gg/wiki/Coffee_Plant/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Coffee_Plant",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Coffee_Plant_Dug.png/40px-Coffee_Plant_Dug.png?3a3169"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "title": "Sproutrock Sapling",
-        "url": "https://dontstarve.wiki.gg/wiki/Sproutrock_Sapling/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Sproutrock_Sapling",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Sproutrock_Sapling.png/40px-Sproutrock_Sapling.png?c6d2ff"
     },
     {
@@ -231,7 +231,7 @@
     },
     {
         "title": "Sea Sprout Starter",
-        "url": "https://dontstarve.wiki.gg/wiki/Sea_Sprout_Starter",
+        "url": "https://dontstarve.wiki.gg/wiki/Sea_Sprout_Starter/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Sea_Sprout_Starter.png/40px-Sea_Sprout_Starter.png?91a996"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "title": "Desert Stone",
-        "url": "https://dontstarve.wiki.gg/wiki/Desert_Stone",
+        "url": "https://dontstarve.wiki.gg/wiki/Desert_Stone/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Desert_Stone.png/40px-Desert_Stone.png?8494ee"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "title": "Tar",
-        "url": "https://dontstarve.wiki.gg/wiki/Tar",
+        "url": "https://dontstarve.wiki.gg/wiki/Tar/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Tar.png/40px-Tar.png?b1da85"
     },
     {
@@ -498,6 +498,11 @@
         "title": "Nucleation Fluid",
         "url": "https://dontstarve.wiki.gg/wiki/Nucleation_Fluid/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Nucleation_Fluid.png/40px-Nucleation_Fluid.png?f5e2a1"
+    },
+    {
+        "title": "Deerclops Eyeball",
+        "url": "https://dontstarve.wiki.gg/wiki/Deerclops_Eyeball/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/Deerclops_Eyeball.png/40px-Deerclops_Eyeball.png?ef9ac6"
     },
     {
         "title": "Beefalo Wool",
@@ -915,6 +920,11 @@
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Iron_Key.png/40px-Iron_Key.png?401c84"
     },
     {
+        "title": "Ancient Key",
+        "url": "https://dontstarve.wiki.gg/wiki/Ancient_Key/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/Ancient_Key.png/40px-Ancient_Key.png?ce71da"
+    },
+    {
         "title": "Tarnished Crown",
         "url": "https://dontstarve.wiki.gg/wiki/Tarnished_Crown/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Tarnished_Crown.png/40px-Tarnished_Crown.png?160025"
@@ -1296,7 +1306,7 @@
     },
     {
         "title": "Goop Canister",
-        "url": "https://dontstarve.wiki.gg/wiki/Goop_Canister/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Goop_Canister",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Goop_Canister.png/40px-Goop_Canister.png?9d65fe"
     },
     {
