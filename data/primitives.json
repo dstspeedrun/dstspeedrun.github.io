@@ -66,12 +66,12 @@
     },
     {
         "title": "Vine",
-        "url": "https://dontstarve.wiki.gg/wiki/Vine/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Vine",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Vine.png/40px-Vine.png?7a828f"
     },
     {
         "title": "Bamboo",
-        "url": "https://dontstarve.wiki.gg/wiki/Bamboo",
+        "url": "https://dontstarve.wiki.gg/wiki/Bamboo/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Bamboo.png/40px-Bamboo.png?3255f9"
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "title": "Tuber",
-        "url": "https://dontstarve.wiki.gg/wiki/Tuber",
+        "url": "https://dontstarve.wiki.gg/wiki/Tuber/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Tuber.png/40px-Tuber.png?5a34c1"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "title": "Jungle Tree Seed",
-        "url": "https://dontstarve.wiki.gg/wiki/Jungle_Tree_Seed/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Jungle_Tree_Seed",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Jungle_Tree_Seed.png/40px-Jungle_Tree_Seed.png?d983b4"
     },
     {
@@ -131,7 +131,7 @@
     },
     {
         "title": "Driftwood Piece",
-        "url": "https://dontstarve.wiki.gg/wiki/Driftwood_Piece/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Driftwood_Piece",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Driftwood_Piece.png/40px-Driftwood_Piece.png?4006fa"
     },
     {
@@ -141,12 +141,12 @@
     },
     {
         "title": "Palmcone Scale",
-        "url": "https://dontstarve.wiki.gg/wiki/Palmcone_Scale",
+        "url": "https://dontstarve.wiki.gg/wiki/Palmcone_Scale/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Palmcone_Scale.png/40px-Palmcone_Scale.png?2fe873"
     },
     {
         "title": "Palmcone Sprout",
-        "url": "https://dontstarve.wiki.gg/wiki/Palmcone_Sprout",
+        "url": "https://dontstarve.wiki.gg/wiki/Palmcone_Sprout/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Palmcone_Sprout.png/40px-Palmcone_Sprout.png?975166"
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "title": "Juicy Berry Bush",
-        "url": "https://dontstarve.wiki.gg/wiki/Juicy_Berry_Bush",
+        "url": "https://dontstarve.wiki.gg/wiki/Juicy_Berry_Bush/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Dug_Juicy_Berry_Bush.png/40px-Dug_Juicy_Berry_Bush.png?fab069"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "title": "Banana Bush",
-        "url": "https://dontstarve.wiki.gg/wiki/Banana_Bush/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Banana_Bush",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Banana_Bush_Item.png/40px-Banana_Bush_Item.png?405b7d"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "title": "Blue Spore",
-        "url": "https://dontstarve.wiki.gg/wiki/Blue_Spore",
+        "url": "https://dontstarve.wiki.gg/wiki/Blue_Spore/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Blue_Spore.png/40px-Blue_Spore.png?af197b"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "title": "Gold Dust",
-        "url": "https://dontstarve.wiki.gg/wiki/Gold_Dust",
+        "url": "https://dontstarve.wiki.gg/wiki/Gold_Dust/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Gold_Dust.png/40px-Gold_Dust.png?9f4e74"
     },
     {
@@ -291,7 +291,7 @@
     },
     {
         "title": "Salt Crystals",
-        "url": "https://dontstarve.wiki.gg/wiki/Salt_Crystals",
+        "url": "https://dontstarve.wiki.gg/wiki/Salt_Crystals/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Salt_Crystals.png/40px-Salt_Crystals.png?54079e"
     },
     {
@@ -306,12 +306,12 @@
     },
     {
         "title": "Coral",
-        "url": "https://dontstarve.wiki.gg/wiki/Coral/DST",
+        "url": "https://dontstarve.wiki.gg/wiki/Coral",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Coral.png/40px-Coral.png?f38a60"
     },
     {
         "title": "Sand",
-        "url": "https://dontstarve.wiki.gg/wiki/Sand",
+        "url": "https://dontstarve.wiki.gg/wiki/Sand/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Sand.png/40px-Sand.png?43567b"
     },
     {
@@ -1013,6 +1013,11 @@
         "title": "Portation Orb",
         "url": "https://dontstarve.wiki.gg/wiki/Portation_Orb/DST",
         "image_url": "https://dontstarve.wiki.gg/images/thumb/Portation_Orb.png/40px-Portation_Orb.png?d65ae4"
+    },
+    {
+        "title": "Lucky Horseshoe",
+        "url": "https://dontstarve.wiki.gg/wiki/Lucky_Horseshoe/DST",
+        "image_url": "https://dontstarve.wiki.gg/images/thumb/Lucky_Horseshoe.png/40px-Lucky_Horseshoe.png?913df2"
     },
     {
         "title": "Ball and Cup",
